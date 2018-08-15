@@ -1,0 +1,731 @@
+Analyzer App version= 11.13.0.186992
+Analyzer Client version= 9.0.1.186073
+Start testing at 2018-05-09_H16_M41_S42
+***************************************************************************************************************************************
+***********************************************************Start testing  SQA-SING61 now***********************************************
+***************************************************************************************************************************************
+Start reading configuration from excel 
+Licence AQGM7NGBJZ8DPZ8HT3CNYYY9JNKBDR4N is set to run
+Licence CVGM7NGBJZ8DPZ8HT3CNZ4E2GFFSB2RM is set to run
+Licence CZGM7NGBJZ8DPZ8HT3CNYWC3R2H009VT is set to run
+Licence AVGM7NGBJZ8DPZ8HT3CNYRKR0503XZJZ is set to run
+Licence AZGM7NGBJZ8DPZ8HT3CNYM8SECSTTWK2 is set to run
+Licence A3GM7NGBJZ8DPZ8HT3CNZGJ2HWA8647R is set to run
+Licence A7GM7NGBJZ8DPZ8HT3CNY94RQ2FQ8Y2W is set to run
+1={'ports': ['1', '2', '3', '4', '5', '6', '7', '8'], 'number': 'AQGM7NGBJZ8DPZ8HT3CNYYY9JNKBDR4N', 'personalities': ['Analyzer_SAS']}
+3={'ports': ['5', '6', '7', '8'], 'number': 'CZGM7NGBJZ8DPZ8HT3CNYWC3R2H009VT', 'personalities': ['Analyzer_SAS']}
+2={'ports': ['1', '2', '3', '4'], 'number': 'CVGM7NGBJZ8DPZ8HT3CNZ4E2GFFSB2RM', 'personalities': ['Analyzer_SAS']}
+5={'ports': ['3', '4'], 'number': 'AZGM7NGBJZ8DPZ8HT3CNYM8SECSTTWK2', 'personalities': ['Analyzer_SAS']}
+4={'ports': ['1', '2'], 'number': 'AVGM7NGBJZ8DPZ8HT3CNYRKR0503XZJZ', 'personalities': ['Analyzer_SAS']}
+7={'ports': ['7', '8'], 'number': 'A7GM7NGBJZ8DPZ8HT3CNY94RQ2FQ8Y2W', 'personalities': ['Analyzer_SAS']}
+6={'ports': ['5', '6'], 'number': 'A3GM7NGBJZ8DPZ8HT3CNZGJ2HWA8647R', 'personalities': ['Analyzer_SAS']}
+Finish reading configuration from excel 
+Now start to test all the license from configuration excel and test TCAPI function under every license
+Test No.1:AQGM7NGBJZ8DPZ8HT3CNYYY9JNKBDR4N starts:
+Start update license
+1.start to update license AQGM7NGBJZ8DPZ8HT3CNYYY9JNKBDR4N
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt AQGM7NGBJZ8DPZ8HT3CNYYY9JNKBDR4N into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['1', '2', '3', '4', '5', '6', '7', '8'] at speed ['12', '6', '3', 'Auto(SAS 6/3)', 'Auto(12/6)', 'Auto(12/6/3)']
+SQA-SING61,1,1 SQA-SING61,1,2 SQA-SING61,1,3 SQA-SING61,1,4 SQA-SING61,1,5 SQA-SING61,1,6 SQA-SING61,1,7 SQA-SING61,1,8
+
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4', '5', '6', '7', '8'] as SAS at 12G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4', '5', '6', '7', '8'] as SAS at 6G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4', '5', '6', '7', '8'] as SAS at 3G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4', '5', '6', '7', '8'] as SAS at Auto(SAS 6/3)G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4', '5', '6', '7', '8'] as SAS at Auto(12/6)G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4', '5', '6', '7', '8'] as SAS at Auto(12/6/3)G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['SAS']
+ports_reverse is []
+protocol_reverse is []
+############Port reverse teting begin############
+ports_reverse is empyt ,so do not test port reverse
+############port reverse teting finish############
+############Protocol reverse teting begin############
+Protocl SAS chassis only support one protocol,so do not test protocl reverse 
+############protocl reverse teting finish############
+Test No.2:CVGM7NGBJZ8DPZ8HT3CNZ4E2GFFSB2RM starts:
+Start update license
+1.start to update license CVGM7NGBJZ8DPZ8HT3CNZ4E2GFFSB2RM
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt CVGM7NGBJZ8DPZ8HT3CNZ4E2GFFSB2RM into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['1', '2', '3', '4'] at speed ['12', '6', '3', 'Auto(SAS 6/3)', 'Auto(12/6)', 'Auto(12/6/3)']
+SQA-SING61,1,1 SQA-SING61,1,2 SQA-SING61,1,3 SQA-SING61,1,4
+
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4'] as SAS at 12G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4'] as SAS at 6G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4'] as SAS at 3G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4'] as SAS at Auto(SAS 6/3)G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4'] as SAS at Auto(12/6)G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4'] as SAS at Auto(12/6/3)G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['SAS']
+ports_reverse is ['5', '6', '7', '8']
+protocol_reverse is []
+############Port reverse teting begin############
+ports_lock on 10.86.88.252,1,5 with not supported port 5with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,6 with not supported port 6with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,7 with not supported port 7with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,8 with not supported port 8with protocol SAS
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+Protocl SAS chassis only support one protocol,so do not test protocl reverse 
+############protocl reverse teting finish############
+Test No.3:CZGM7NGBJZ8DPZ8HT3CNYWC3R2H009VT starts:
+Start update license
+1.start to update license CZGM7NGBJZ8DPZ8HT3CNYWC3R2H009VT
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt CZGM7NGBJZ8DPZ8HT3CNYWC3R2H009VT into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['5', '6', '7', '8'] at speed ['12', '6', '3', 'Auto(SAS 6/3)', 'Auto(12/6)', 'Auto(12/6/3)']
+SQA-SING61,1,5 SQA-SING61,1,6 SQA-SING61,1,7 SQA-SING61,1,8
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6', '7', '8'] as SAS at 12G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6', '7', '8'] as SAS at 6G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6', '7', '8'] as SAS at 3G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6', '7', '8'] as SAS at Auto(SAS 6/3)G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6', '7', '8'] as SAS at Auto(12/6)G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6', '7', '8'] as SAS at Auto(12/6/3)G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['SAS']
+ports_reverse is ['1', '2', '3', '4']
+protocol_reverse is []
+############Port reverse teting begin############
+ports_lock on 10.86.88.252,1,1 with not supported port 1with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,2 with not supported port 2with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,3 with not supported port 3with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,4 with not supported port 4with protocol SAS
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+Protocl SAS chassis only support one protocol,so do not test protocl reverse 
+############protocl reverse teting finish############
+Test No.4:AVGM7NGBJZ8DPZ8HT3CNYRKR0503XZJZ starts:
+Start update license
+1.start to update license AVGM7NGBJZ8DPZ8HT3CNYRKR0503XZJZ
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt AVGM7NGBJZ8DPZ8HT3CNYRKR0503XZJZ into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['1', '2'] at speed ['12', '6', '3', 'Auto(SAS 6/3)', 'Auto(12/6)', 'Auto(12/6/3)']
+SQA-SING61,1,1 SQA-SING61,1,2
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as SAS at 12G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as SAS at 6G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as SAS at 3G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as SAS at Auto(SAS 6/3)G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as SAS at Auto(12/6)G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as SAS at Auto(12/6/3)G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['SAS']
+ports_reverse is ['3', '4', '5', '6', '7', '8']
+protocol_reverse is []
+############Port reverse teting begin############
+ports_lock on 10.86.88.252,1,3 with not supported port 3with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,4 with not supported port 4with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,5 with not supported port 5with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,6 with not supported port 6with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,7 with not supported port 7with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,8 with not supported port 8with protocol SAS
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+Protocl SAS chassis only support one protocol,so do not test protocl reverse 
+############protocl reverse teting finish############
+Test No.5:AZGM7NGBJZ8DPZ8HT3CNYM8SECSTTWK2 starts:
+Start update license
+1.start to update license AZGM7NGBJZ8DPZ8HT3CNYM8SECSTTWK2
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt AZGM7NGBJZ8DPZ8HT3CNYM8SECSTTWK2 into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['3', '4'] at speed ['12', '6', '3', 'Auto(SAS 6/3)', 'Auto(12/6)', 'Auto(12/6/3)']
+SQA-SING61,1,3 SQA-SING61,1,4
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['3', '4'] as SAS at 12G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['3', '4'] as SAS at 6G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['3', '4'] as SAS at 3G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['3', '4'] as SAS at Auto(SAS 6/3)G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['3', '4'] as SAS at Auto(12/6)G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['3', '4'] as SAS at Auto(12/6/3)G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['SAS']
+ports_reverse is ['1', '2', '5', '6', '7', '8']
+protocol_reverse is []
+############Port reverse teting begin############
+ports_lock on 10.86.88.252,1,1 with not supported port 1with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,2 with not supported port 2with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,5 with not supported port 5with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,6 with not supported port 6with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,7 with not supported port 7with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,8 with not supported port 8with protocol SAS
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+Protocl SAS chassis only support one protocol,so do not test protocl reverse 
+############protocl reverse teting finish############
+Test No.6:A3GM7NGBJZ8DPZ8HT3CNZGJ2HWA8647R starts:
+Start update license
+1.start to update license A3GM7NGBJZ8DPZ8HT3CNZGJ2HWA8647R
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt A3GM7NGBJZ8DPZ8HT3CNZGJ2HWA8647R into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['5', '6'] at speed ['12', '6', '3', 'Auto(SAS 6/3)', 'Auto(12/6)', 'Auto(12/6/3)']
+SQA-SING61,1,5 SQA-SING61,1,6
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6'] as SAS at 12G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6'] as SAS at 6G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6'] as SAS at 3G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6'] as SAS at Auto(SAS 6/3)G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6'] as SAS at Auto(12/6)G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6'] as SAS at Auto(12/6/3)G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['SAS']
+ports_reverse is ['1', '2', '3', '4', '7', '8']
+protocol_reverse is []
+############Port reverse teting begin############
+ports_lock on 10.86.88.252,1,1 with not supported port 1with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,2 with not supported port 2with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,3 with not supported port 3with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,4 with not supported port 4with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,7 with not supported port 7with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,8 with not supported port 8with protocol SAS
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+Protocl SAS chassis only support one protocol,so do not test protocl reverse 
+############protocl reverse teting finish############
+Test No.7:A7GM7NGBJZ8DPZ8HT3CNY94RQ2FQ8Y2W starts:
+Start update license
+1.start to update license A7GM7NGBJZ8DPZ8HT3CNY94RQ2FQ8Y2W
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt A7GM7NGBJZ8DPZ8HT3CNY94RQ2FQ8Y2W into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['7', '8'] at speed ['12', '6', '3', 'Auto(SAS 6/3)', 'Auto(12/6)', 'Auto(12/6/3)']
+SQA-SING61,1,7 SQA-SING61,1,8
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['7', '8'] as SAS at 12G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['7', '8'] as SAS at 6G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['7', '8'] as SAS at 3G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['7', '8'] as SAS at Auto(SAS 6/3)G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['7', '8'] as SAS at Auto(12/6)G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['7', '8'] as SAS at Auto(12/6/3)G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['SAS']
+ports_reverse is ['1', '2', '3', '4', '5', '6']
+protocol_reverse is []
+############Port reverse teting begin############
+ports_lock on 10.86.88.252,1,1 with not supported port 1with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,2 with not supported port 2with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,3 with not supported port 3with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,4 with not supported port 4with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,5 with not supported port 5with protocol SAS
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.252,1,6 with not supported port 6with protocol SAS
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+Protocl SAS chassis only support one protocol,so do not test protocl reverse 
+############protocl reverse teting finish############
+Finish SQA-SING61 testing
+SQA-SING61 will not test mixture license testing
+Restore chassis SQA-SING61 old license
+Successfully restore license  AQGM7NGBJ08DPZ8HT3CNYHJRHK6ZCH01 into chassis license txt
+Successfully restore license  AQGM7NGB229DPZ8HT3CNYK48873MHZ99 into chassis license txt
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+Restore finish and wait 180s for chassis up
+Moved to next chassis
+***************************************************************************************************************************************
+***********************************************************Finish testing  SQA-SING61 now***********************************************
+***************************************************************************************************************************************

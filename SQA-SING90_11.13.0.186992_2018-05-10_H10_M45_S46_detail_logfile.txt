@@ -1,0 +1,3230 @@
+Analyzer App version= 11.13.0.186992
+Analyzer Client version= 9.0.1.186073
+Start testing at 2018-05-10_H10_M45_S46
+***************************************************************************************************************************************
+***********************************************************Start testing  SQA-SING90 now***********************************************
+***************************************************************************************************************************************
+Start reading configuration from excel 
+Licence ATBSZFGAJZ4DPZ8NT3CNZE8ZHVTTFF3B is set to run
+Licence ATBSZFGAJZ4DPZ8ST3CNYPCV7Y7M513S is set to run
+Licence ATBSZFGAJZCDPZ8HT3CNZXX2N8E63BC1 is set to run
+Licence CYBSZFGAJZCDPZ8HT3CNZXDY76XSN7XB is set to run
+Licence C2BSZFGAJZCDPZ8HT3CNYQ31MXQS4PZN is set to run
+Licence AYBSZFGAJZCDPZ8HT3CNY34PP0MZBM5N is set to run
+Licence A2BSZFGAJZCDPZ8HT3CNY5WBGHXRVAXK is set to run
+Licence A6BSZFGAJZCDPZ8HT3CNZJAD1YA86YW5 is set to run
+Licence AABSZFGAJZCDPZ8HT3CNZTE5ERVBDF66 is set to run
+Licence ATBSZFGAJZ4EPZ8HT3CNYFVQD4SDPEPP is set to run
+Licence ATBSZFGAJ74DPZ8HT3CNZH41WH4SQ588 is set to run
+Licence CYBSZFGAJ74DPZ8HT3CNYXW6JT41T1PH is set to run
+Licence C2BSZFGAJ74DPZ8HT3CNZBDNMWDBESQS is set to run
+Licence AYBSZFGAJ74DPZ8HT3CNY7HQKGP9J46W is set to run
+Licence A2BSZFGAJ74DPZ8HT3CNZWHW31TJC4SM is set to run
+Licence A6BSZFGAJ74DPZ8HT3CNYGZ1HXFCXFZW is set to run
+Licence AABSZFGAJ74DPZ8HT3CNZM75G6MD9EG0 is set to run
+Licence ATBSZFGAJF4DPZ8HT3CNYKGJM0S6K8B2 is set to run
+Licence CYBSZFGAJF4DPZ8HT3CNYX6Z14FV61JY is set to run
+Licence C2BSZFGAJF4DPZ8HT3CNYQHS0ZJFGBJ2 is set to run
+Licence AYBSZFGAJF4DPZ8HT3CNZ3WWTK2T4RMJ is set to run
+Licence A2BSZFGAJF4DPZ8HT3CNYCW49Z3J70B4 is set to run
+Licence A6BSZFGAJF4DPZ8HT3CNZHM39XP6BDRZ is set to run
+Licence AABSZFGAJF4DPZ8HT3CNYPG6QR47MNR5 is set to run
+24={'ports': ['7', '8'], 'number': 'AABSZFGAJF4DPZ8HT3CNYPG6QR47MNR5', 'personalities': ['Analyzer_10GE']}
+20={'ports': ['5', '6', '7', '8'], 'number': 'C2BSZFGAJF4DPZ8HT3CNYQHS0ZJFGBJ2', 'personalities': ['Analyzer_10GE']}
+21={'ports': ['1', '2'], 'number': 'AYBSZFGAJF4DPZ8HT3CNZ3WWTK2T4RMJ', 'personalities': ['Analyzer_10GE']}
+22={'ports': ['3', '4'], 'number': 'A2BSZFGAJF4DPZ8HT3CNYCW49Z3J70B4', 'personalities': ['Analyzer_10GE']}
+23={'ports': ['5', '6'], 'number': 'A6BSZFGAJF4DPZ8HT3CNZHM39XP6BDRZ', 'personalities': ['Analyzer_10GE']}
+1={'ports': ['1', '2'], 'number': 'ATBSZFGAJZ4DPZ8NT3CNZE8ZHVTTFF3B', 'personalities': ['Analyzer_100GE']}
+3={'ports': ['1', '2', '3', '4', '5', '6', '7', '8'], 'number': 'ATBSZFGAJZCDPZ8HT3CNZXX2N8E63BC1', 'personalities': ['Analyzer_25GE']}
+2={'ports': ['1', '2'], 'number': 'ATBSZFGAJZ4DPZ8ST3CNYPCV7Y7M513S', 'personalities': ['Analyzer_128FC']}
+5={'ports': ['5', '6', '7', '8'], 'number': 'C2BSZFGAJZCDPZ8HT3CNYQ31MXQS4PZN', 'personalities': ['Analyzer_25GE']}
+4={'ports': ['1', '2', '3', '4'], 'number': 'CYBSZFGAJZCDPZ8HT3CNZXDY76XSN7XB', 'personalities': ['Analyzer_25GE']}
+7={'ports': ['3', '4'], 'number': 'A2BSZFGAJZCDPZ8HT3CNY5WBGHXRVAXK', 'personalities': ['Analyzer_25GE']}
+6={'ports': ['1', '2'], 'number': 'AYBSZFGAJZCDPZ8HT3CNY34PP0MZBM5N', 'personalities': ['Analyzer_25GE']}
+9={'ports': ['7', '8'], 'number': 'AABSZFGAJZCDPZ8HT3CNZTE5ERVBDF66', 'personalities': ['Analyzer_25GE']}
+8={'ports': ['5', '6'], 'number': 'A6BSZFGAJZCDPZ8HT3CNZJAD1YA86YW5', 'personalities': ['Analyzer_25GE']}
+11={'ports': ['1', '2', '3', '4', '5', '6', '7', '8'], 'number': 'ATBSZFGAJ74DPZ8HT3CNZH41WH4SQ588', 'personalities': ['Analyzer_32FC']}
+10={'ports': ['1', '2'], 'number': 'ATBSZFGAJZ4EPZ8HT3CNYFVQD4SDPEPP', 'personalities': ['Analyzer_50GE']}
+13={'ports': ['5', '6', '7', '8'], 'number': 'C2BSZFGAJ74DPZ8HT3CNZBDNMWDBESQS', 'personalities': ['Analyzer_32FC']}
+12={'ports': ['1', '2', '3', '4'], 'number': 'CYBSZFGAJ74DPZ8HT3CNYXW6JT41T1PH', 'personalities': ['Analyzer_32FC']}
+15={'ports': ['3', '4'], 'number': 'A2BSZFGAJ74DPZ8HT3CNZWHW31TJC4SM', 'personalities': ['Analyzer_32FC']}
+14={'ports': ['1', '2'], 'number': 'AYBSZFGAJ74DPZ8HT3CNY7HQKGP9J46W', 'personalities': ['Analyzer_32FC']}
+17={'ports': ['7', '8'], 'number': 'AABSZFGAJ74DPZ8HT3CNZM75G6MD9EG0', 'personalities': ['Analyzer_32FC']}
+16={'ports': ['5', '6'], 'number': 'A6BSZFGAJ74DPZ8HT3CNYGZ1HXFCXFZW', 'personalities': ['Analyzer_32FC']}
+19={'ports': ['1', '2', '3', '4'], 'number': 'CYBSZFGAJF4DPZ8HT3CNYX6Z14FV61JY', 'personalities': ['Analyzer_10GE']}
+18={'ports': ['1', '2', '3', '4', '5', '6', '7', '8'], 'number': 'ATBSZFGAJF4DPZ8HT3CNYKGJM0S6K8B2', 'personalities': ['Analyzer_10GE']}
+Finish reading configuration from excel 
+Now start to test all the license from configuration excel and test TCAPI function under every license
+Test No.1:ATBSZFGAJZ4DPZ8NT3CNZE8ZHVTTFF3B starts:
+Start update license
+1.start to update license ATBSZFGAJZ4DPZ8NT3CNZE8ZHVTTFF3B
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt ATBSZFGAJZ4DPZ8NT3CNZE8ZHVTTFF3B into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['1', '2'] at speed ['100']
+SQA-SING90,1,1 SQA-SING90,1,2
+
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as 100GE at 100G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', '50GE', 'GE']
+ports_reverse is ['3', '4', '5', '6', '7', '8']
+protocol_reverse is ['GE', 'FC', '128FC', '50GE', 'GE']
+############Port reverse teting begin############
+Protocl 100GE do not test port reverese ,because it only support 2 ports
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 128FC reverse testing########
+Lock on port 1 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 128FC
+-1 UsePortEx should return -1
+#############Now start protocol 50GE reverse testing########
+Lock on port 1 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 50GE
+-1 UsePortEx should return -1
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.2:ATBSZFGAJZ4DPZ8ST3CNYPCV7Y7M513S starts:
+Start update license
+1.start to update license ATBSZFGAJZ4DPZ8ST3CNYPCV7Y7M513S
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt ATBSZFGAJZ4DPZ8ST3CNYPCV7Y7M513S into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['1', '2'] at speed ['128']
+SQA-SING90,1,1 SQA-SING90,1,2
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as 128FC at 128G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', '50GE', 'GE']
+ports_reverse is ['3', '4', '5', '6', '7', '8']
+protocol_reverse is ['GE', 'FC', '100GE', '50GE', 'GE']
+############Port reverse teting begin############
+Protocl 128FC do not test port reverese ,because it only support 2 ports
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 100GE reverse testing########
+Lock on port 1 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 100GE
+-1 UsePortEx should return -1
+#############Now start protocol 50GE reverse testing########
+Lock on port 1 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 50GE
+-1 UsePortEx should return -1
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.3:ATBSZFGAJZCDPZ8HT3CNZXX2N8E63BC1 starts:
+Start update license
+1.start to update license ATBSZFGAJZCDPZ8HT3CNZXX2N8E63BC1
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt ATBSZFGAJZCDPZ8HT3CNZXX2N8E63BC1 into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['1', '2', '3', '4', '5', '6', '7', '8'] at speed ['25']
+SQA-SING90,1,1 SQA-SING90,1,2 SQA-SING90,1,3 SQA-SING90,1,4 SQA-SING90,1,5 SQA-SING90,1,6 SQA-SING90,1,7 SQA-SING90,1,8
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4', '5', '6', '7', '8'] as GE at 25G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', '50GE', 'GE']
+ports_reverse is []
+protocol_reverse is ['FC', '128FC', '100GE', '50GE']
+############Port reverse teting begin############
+ports_reverse is empyt ,so do not test port reverse
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 128FC reverse testing########
+Lock on port 1 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 128FC
+-1 UsePortEx should return -1
+#############Now start protocol 100GE reverse testing########
+Lock on port 1 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 100GE
+-1 UsePortEx should return -1
+#############Now start protocol 50GE reverse testing########
+Lock on port 1 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 50GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.4:CYBSZFGAJZCDPZ8HT3CNZXDY76XSN7XB starts:
+Start update license
+1.start to update license CYBSZFGAJZCDPZ8HT3CNZXDY76XSN7XB
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt CYBSZFGAJZCDPZ8HT3CNZXDY76XSN7XB into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['1', '2', '3', '4'] at speed ['25']
+SQA-SING90,1,1 SQA-SING90,1,2 SQA-SING90,1,3 SQA-SING90,1,4
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4'] as GE at 25G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', '50GE', 'GE']
+ports_reverse is ['5', '6', '7', '8']
+protocol_reverse is ['FC', '128FC', '100GE', '50GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.64,1,5 with not supported port 5with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,6 with not supported port 6with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,7 with not supported port 7with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,8 with not supported port 8with protocol GE
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 128FC reverse testing########
+Lock on port 1 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 128FC
+-1 UsePortEx should return -1
+#############Now start protocol 100GE reverse testing########
+Lock on port 1 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 100GE
+-1 UsePortEx should return -1
+#############Now start protocol 50GE reverse testing########
+Lock on port 1 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 50GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.5:C2BSZFGAJZCDPZ8HT3CNYQ31MXQS4PZN starts:
+Start update license
+1.start to update license C2BSZFGAJZCDPZ8HT3CNYQ31MXQS4PZN
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt C2BSZFGAJZCDPZ8HT3CNYQ31MXQS4PZN into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['5', '6', '7', '8'] at speed ['25']
+SQA-SING90,1,5 SQA-SING90,1,6 SQA-SING90,1,7 SQA-SING90,1,8
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6', '7', '8'] as GE at 25G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', '50GE', 'GE']
+ports_reverse is ['1', '2', '3', '4']
+protocol_reverse is ['FC', '128FC', '100GE', '50GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.64,1,1 with not supported port 1with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,2 with not supported port 2with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,3 with not supported port 3with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,4 with not supported port 4with protocol GE
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 128FC reverse testing########
+Lock on port 1 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 128FC
+-1 UsePortEx should return -1
+#############Now start protocol 100GE reverse testing########
+Lock on port 1 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 100GE
+-1 UsePortEx should return -1
+#############Now start protocol 50GE reverse testing########
+Lock on port 1 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 50GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.6:AYBSZFGAJZCDPZ8HT3CNY34PP0MZBM5N starts:
+Start update license
+1.start to update license AYBSZFGAJZCDPZ8HT3CNY34PP0MZBM5N
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt AYBSZFGAJZCDPZ8HT3CNY34PP0MZBM5N into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['1', '2'] at speed ['25']
+SQA-SING90,1,1 SQA-SING90,1,2
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as GE at 25G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', '50GE', 'GE']
+ports_reverse is ['3', '4', '5', '6', '7', '8']
+protocol_reverse is ['FC', '128FC', '100GE', '50GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.64,1,3 with not supported port 3with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,4 with not supported port 4with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,5 with not supported port 5with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,6 with not supported port 6with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,7 with not supported port 7with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,8 with not supported port 8with protocol GE
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 128FC reverse testing########
+Lock on port 1 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 128FC
+-1 UsePortEx should return -1
+#############Now start protocol 100GE reverse testing########
+Lock on port 1 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 100GE
+-1 UsePortEx should return -1
+#############Now start protocol 50GE reverse testing########
+Lock on port 1 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 50GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.7:A2BSZFGAJZCDPZ8HT3CNY5WBGHXRVAXK starts:
+Start update license
+1.start to update license A2BSZFGAJZCDPZ8HT3CNY5WBGHXRVAXK
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt A2BSZFGAJZCDPZ8HT3CNY5WBGHXRVAXK into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['3', '4'] at speed ['25']
+SQA-SING90,1,3 SQA-SING90,1,4
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['3', '4'] as GE at 25G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', '50GE', 'GE']
+ports_reverse is ['1', '2', '5', '6', '7', '8']
+protocol_reverse is ['FC', '128FC', '100GE', '50GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.64,1,1 with not supported port 1with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,2 with not supported port 2with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,5 with not supported port 5with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,6 with not supported port 6with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,7 with not supported port 7with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,8 with not supported port 8with protocol GE
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 128FC reverse testing########
+Lock on port 1 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 128FC
+-1 UsePortEx should return -1
+#############Now start protocol 100GE reverse testing########
+Lock on port 1 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 100GE
+-1 UsePortEx should return -1
+#############Now start protocol 50GE reverse testing########
+Lock on port 1 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 50GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.8:A6BSZFGAJZCDPZ8HT3CNZJAD1YA86YW5 starts:
+Start update license
+1.start to update license A6BSZFGAJZCDPZ8HT3CNZJAD1YA86YW5
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt A6BSZFGAJZCDPZ8HT3CNZJAD1YA86YW5 into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['5', '6'] at speed ['25']
+SQA-SING90,1,5 SQA-SING90,1,6
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6'] as GE at 25G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', '50GE', 'GE']
+ports_reverse is ['1', '2', '3', '4', '7', '8']
+protocol_reverse is ['FC', '128FC', '100GE', '50GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.64,1,1 with not supported port 1with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,2 with not supported port 2with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,3 with not supported port 3with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,4 with not supported port 4with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,7 with not supported port 7with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,8 with not supported port 8with protocol GE
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 128FC reverse testing########
+Lock on port 1 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 128FC
+-1 UsePortEx should return -1
+#############Now start protocol 100GE reverse testing########
+Lock on port 1 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 100GE
+-1 UsePortEx should return -1
+#############Now start protocol 50GE reverse testing########
+Lock on port 1 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 50GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.9:AABSZFGAJZCDPZ8HT3CNZTE5ERVBDF66 starts:
+Start update license
+1.start to update license AABSZFGAJZCDPZ8HT3CNZTE5ERVBDF66
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt AABSZFGAJZCDPZ8HT3CNZTE5ERVBDF66 into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['7', '8'] at speed ['25']
+SQA-SING90,1,7 SQA-SING90,1,8
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['7', '8'] as GE at 25G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', '50GE', 'GE']
+ports_reverse is ['1', '2', '3', '4', '5', '6']
+protocol_reverse is ['FC', '128FC', '100GE', '50GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.64,1,1 with not supported port 1with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,2 with not supported port 2with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,3 with not supported port 3with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,4 with not supported port 4with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,5 with not supported port 5with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,6 with not supported port 6with protocol GE
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 128FC reverse testing########
+Lock on port 1 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 128FC
+-1 UsePortEx should return -1
+#############Now start protocol 100GE reverse testing########
+Lock on port 1 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 100GE
+-1 UsePortEx should return -1
+#############Now start protocol 50GE reverse testing########
+Lock on port 1 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 50GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.10:ATBSZFGAJZ4EPZ8HT3CNYFVQD4SDPEPP starts:
+Start update license
+1.start to update license ATBSZFGAJZ4EPZ8HT3CNYFVQD4SDPEPP
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt ATBSZFGAJZ4EPZ8HT3CNYFVQD4SDPEPP into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['1', '2'] at speed ['50']
+SQA-SING90,1,1 SQA-SING90,1,2
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as 50GE at 50G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', '50GE', 'GE']
+ports_reverse is ['3', '4', '5', '6', '7', '8']
+protocol_reverse is ['GE', 'FC', '128FC', '100GE', 'GE']
+############Port reverse teting begin############
+Protocl 50GE do not test port reverese ,because it only support 2 ports
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 128FC reverse testing########
+Lock on port 1 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 128FC
+-1 UsePortEx should return -1
+#############Now start protocol 100GE reverse testing########
+Lock on port 1 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 100GE
+-1 UsePortEx should return -1
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.11:ATBSZFGAJ74DPZ8HT3CNZH41WH4SQ588 starts:
+Start update license
+1.start to update license ATBSZFGAJ74DPZ8HT3CNZH41WH4SQ588
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt ATBSZFGAJ74DPZ8HT3CNZH41WH4SQ588 into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['1', '2', '3', '4', '5', '6', '7', '8'] at speed ['32', '16', '8']
+SQA-SING90,1,1 SQA-SING90,1,2 SQA-SING90,1,3 SQA-SING90,1,4 SQA-SING90,1,5 SQA-SING90,1,6 SQA-SING90,1,7 SQA-SING90,1,8
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4', '5', '6', '7', '8'] as FC at 32G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4', '5', '6', '7', '8'] as FC at 16G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4', '5', '6', '7', '8'] as FC at 8G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', '50GE', 'GE']
+ports_reverse is []
+protocol_reverse is ['GE', '128FC', '100GE', '50GE', 'GE']
+############Port reverse teting begin############
+ports_reverse is empyt ,so do not test port reverse
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+#############Now start protocol 128FC reverse testing########
+Lock on port 1 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 128FC
+-1 UsePortEx should return -1
+#############Now start protocol 100GE reverse testing########
+Lock on port 1 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 100GE
+-1 UsePortEx should return -1
+#############Now start protocol 50GE reverse testing########
+Lock on port 1 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 50GE
+-1 UsePortEx should return -1
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.12:CYBSZFGAJ74DPZ8HT3CNYXW6JT41T1PH starts:
+Start update license
+1.start to update license CYBSZFGAJ74DPZ8HT3CNYXW6JT41T1PH
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt CYBSZFGAJ74DPZ8HT3CNYXW6JT41T1PH into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['1', '2', '3', '4'] at speed ['32', '16', '8']
+SQA-SING90,1,1 SQA-SING90,1,2 SQA-SING90,1,3 SQA-SING90,1,4
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4'] as FC at 32G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4'] as FC at 16G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4'] as FC at 8G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', '50GE', 'GE']
+ports_reverse is ['5', '6', '7', '8']
+protocol_reverse is ['GE', '128FC', '100GE', '50GE', 'GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.64,1,5 with not supported port 5with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,6 with not supported port 6with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,7 with not supported port 7with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,8 with not supported port 8with protocol FC
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+#############Now start protocol 128FC reverse testing########
+Lock on port 1 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 128FC
+-1 UsePortEx should return -1
+#############Now start protocol 100GE reverse testing########
+Lock on port 1 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 100GE
+-1 UsePortEx should return -1
+#############Now start protocol 50GE reverse testing########
+Lock on port 1 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 50GE
+-1 UsePortEx should return -1
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.13:C2BSZFGAJ74DPZ8HT3CNZBDNMWDBESQS starts:
+Start update license
+1.start to update license C2BSZFGAJ74DPZ8HT3CNZBDNMWDBESQS
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt C2BSZFGAJ74DPZ8HT3CNZBDNMWDBESQS into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['5', '6', '7', '8'] at speed ['32', '16', '8']
+SQA-SING90,1,5 SQA-SING90,1,6 SQA-SING90,1,7 SQA-SING90,1,8
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6', '7', '8'] as FC at 32G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6', '7', '8'] as FC at 16G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6', '7', '8'] as FC at 8G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', '50GE', 'GE']
+ports_reverse is ['1', '2', '3', '4']
+protocol_reverse is ['GE', '128FC', '100GE', '50GE', 'GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.64,1,1 with not supported port 1with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,2 with not supported port 2with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,3 with not supported port 3with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,4 with not supported port 4with protocol FC
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+#############Now start protocol 128FC reverse testing########
+Lock on port 1 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 128FC
+-1 UsePortEx should return -1
+#############Now start protocol 100GE reverse testing########
+Lock on port 1 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 100GE
+-1 UsePortEx should return -1
+#############Now start protocol 50GE reverse testing########
+Lock on port 1 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 50GE
+-1 UsePortEx should return -1
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.14:AYBSZFGAJ74DPZ8HT3CNY7HQKGP9J46W starts:
+Start update license
+1.start to update license AYBSZFGAJ74DPZ8HT3CNY7HQKGP9J46W
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt AYBSZFGAJ74DPZ8HT3CNY7HQKGP9J46W into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['1', '2'] at speed ['32', '16', '8']
+SQA-SING90,1,1 SQA-SING90,1,2
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as FC at 32G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as FC at 16G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as FC at 8G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', '50GE', 'GE']
+ports_reverse is ['3', '4', '5', '6', '7', '8']
+protocol_reverse is ['GE', '128FC', '100GE', '50GE', 'GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.64,1,3 with not supported port 3with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,4 with not supported port 4with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,5 with not supported port 5with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,6 with not supported port 6with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,7 with not supported port 7with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,8 with not supported port 8with protocol FC
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+#############Now start protocol 128FC reverse testing########
+Lock on port 1 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 128FC
+-1 UsePortEx should return -1
+#############Now start protocol 100GE reverse testing########
+Lock on port 1 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 100GE
+-1 UsePortEx should return -1
+#############Now start protocol 50GE reverse testing########
+Lock on port 1 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 50GE
+-1 UsePortEx should return -1
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.15:A2BSZFGAJ74DPZ8HT3CNZWHW31TJC4SM starts:
+Start update license
+1.start to update license A2BSZFGAJ74DPZ8HT3CNZWHW31TJC4SM
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt A2BSZFGAJ74DPZ8HT3CNZWHW31TJC4SM into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['3', '4'] at speed ['32', '16', '8']
+SQA-SING90,1,3 SQA-SING90,1,4
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['3', '4'] as FC at 32G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['3', '4'] as FC at 16G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['3', '4'] as FC at 8G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', '50GE', 'GE']
+ports_reverse is ['1', '2', '5', '6', '7', '8']
+protocol_reverse is ['GE', '128FC', '100GE', '50GE', 'GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.64,1,1 with not supported port 1with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,2 with not supported port 2with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,5 with not supported port 5with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,6 with not supported port 6with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,7 with not supported port 7with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,8 with not supported port 8with protocol FC
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+#############Now start protocol 128FC reverse testing########
+Lock on port 1 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 128FC
+-1 UsePortEx should return -1
+#############Now start protocol 100GE reverse testing########
+Lock on port 1 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 100GE
+-1 UsePortEx should return -1
+#############Now start protocol 50GE reverse testing########
+Lock on port 1 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 50GE
+-1 UsePortEx should return -1
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.16:A6BSZFGAJ74DPZ8HT3CNYGZ1HXFCXFZW starts:
+Start update license
+1.start to update license A6BSZFGAJ74DPZ8HT3CNYGZ1HXFCXFZW
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt A6BSZFGAJ74DPZ8HT3CNYGZ1HXFCXFZW into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['5', '6'] at speed ['32', '16', '8']
+SQA-SING90,1,5 SQA-SING90,1,6
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6'] as FC at 32G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6'] as FC at 16G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6'] as FC at 8G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', '50GE', 'GE']
+ports_reverse is ['1', '2', '3', '4', '7', '8']
+protocol_reverse is ['GE', '128FC', '100GE', '50GE', 'GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.64,1,1 with not supported port 1with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,2 with not supported port 2with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,3 with not supported port 3with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,4 with not supported port 4with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,7 with not supported port 7with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,8 with not supported port 8with protocol FC
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+#############Now start protocol 128FC reverse testing########
+Lock on port 1 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 128FC
+-1 UsePortEx should return -1
+#############Now start protocol 100GE reverse testing########
+Lock on port 1 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 100GE
+-1 UsePortEx should return -1
+#############Now start protocol 50GE reverse testing########
+Lock on port 1 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 50GE
+-1 UsePortEx should return -1
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.17:AABSZFGAJ74DPZ8HT3CNZM75G6MD9EG0 starts:
+Start update license
+1.start to update license AABSZFGAJ74DPZ8HT3CNZM75G6MD9EG0
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt AABSZFGAJ74DPZ8HT3CNZM75G6MD9EG0 into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['7', '8'] at speed ['32', '16', '8']
+SQA-SING90,1,7 SQA-SING90,1,8
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['7', '8'] as FC at 32G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['7', '8'] as FC at 16G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['7', '8'] as FC at 8G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', '50GE', 'GE']
+ports_reverse is ['1', '2', '3', '4', '5', '6']
+protocol_reverse is ['GE', '128FC', '100GE', '50GE', 'GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.64,1,1 with not supported port 1with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,2 with not supported port 2with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,3 with not supported port 3with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,4 with not supported port 4with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,5 with not supported port 5with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,6 with not supported port 6with protocol FC
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+#############Now start protocol 128FC reverse testing########
+Lock on port 1 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 128FC
+-1 UsePortEx should return -1
+#############Now start protocol 100GE reverse testing########
+Lock on port 1 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 100GE
+-1 UsePortEx should return -1
+#############Now start protocol 50GE reverse testing########
+Lock on port 1 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 50GE
+-1 UsePortEx should return -1
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.18:ATBSZFGAJF4DPZ8HT3CNYKGJM0S6K8B2 starts:
+Start update license
+1.start to update license ATBSZFGAJF4DPZ8HT3CNYKGJM0S6K8B2
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt ATBSZFGAJF4DPZ8HT3CNYKGJM0S6K8B2 into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['1', '2', '3', '4', '5', '6', '7', '8'] at speed ['10']
+SQA-SING90,1,1 SQA-SING90,1,2 SQA-SING90,1,3 SQA-SING90,1,4 SQA-SING90,1,5 SQA-SING90,1,6 SQA-SING90,1,7 SQA-SING90,1,8
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4', '5', '6', '7', '8'] as GE at 10G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', '50GE', 'GE']
+ports_reverse is []
+protocol_reverse is ['FC', '128FC', '100GE', '50GE']
+############Port reverse teting begin############
+ports_reverse is empyt ,so do not test port reverse
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 128FC reverse testing########
+Lock on port 1 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 128FC
+-1 UsePortEx should return -1
+#############Now start protocol 100GE reverse testing########
+Lock on port 1 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 100GE
+-1 UsePortEx should return -1
+#############Now start protocol 50GE reverse testing########
+Lock on port 1 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 50GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.19:CYBSZFGAJF4DPZ8HT3CNYX6Z14FV61JY starts:
+Start update license
+1.start to update license CYBSZFGAJF4DPZ8HT3CNYX6Z14FV61JY
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt CYBSZFGAJF4DPZ8HT3CNYX6Z14FV61JY into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['1', '2', '3', '4'] at speed ['10']
+SQA-SING90,1,1 SQA-SING90,1,2 SQA-SING90,1,3 SQA-SING90,1,4
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4'] as GE at 10G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', '50GE', 'GE']
+ports_reverse is ['5', '6', '7', '8']
+protocol_reverse is ['FC', '128FC', '100GE', '50GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.64,1,5 with not supported port 5with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,6 with not supported port 6with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,7 with not supported port 7with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,8 with not supported port 8with protocol GE
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 128FC reverse testing########
+Lock on port 1 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 128FC
+-1 UsePortEx should return -1
+#############Now start protocol 100GE reverse testing########
+Lock on port 1 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 100GE
+-1 UsePortEx should return -1
+#############Now start protocol 50GE reverse testing########
+Lock on port 1 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 50GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.20:C2BSZFGAJF4DPZ8HT3CNYQHS0ZJFGBJ2 starts:
+Start update license
+1.start to update license C2BSZFGAJF4DPZ8HT3CNYQHS0ZJFGBJ2
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt C2BSZFGAJF4DPZ8HT3CNYQHS0ZJFGBJ2 into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['5', '6', '7', '8'] at speed ['10']
+SQA-SING90,1,5 SQA-SING90,1,6 SQA-SING90,1,7 SQA-SING90,1,8
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6', '7', '8'] as GE at 10G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', '50GE', 'GE']
+ports_reverse is ['1', '2', '3', '4']
+protocol_reverse is ['FC', '128FC', '100GE', '50GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.64,1,1 with not supported port 1with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,2 with not supported port 2with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,3 with not supported port 3with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,4 with not supported port 4with protocol GE
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 128FC reverse testing########
+Lock on port 1 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 128FC
+-1 UsePortEx should return -1
+#############Now start protocol 100GE reverse testing########
+Lock on port 1 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 100GE
+-1 UsePortEx should return -1
+#############Now start protocol 50GE reverse testing########
+Lock on port 1 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 50GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.21:AYBSZFGAJF4DPZ8HT3CNZ3WWTK2T4RMJ starts:
+Start update license
+1.start to update license AYBSZFGAJF4DPZ8HT3CNZ3WWTK2T4RMJ
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt AYBSZFGAJF4DPZ8HT3CNZ3WWTK2T4RMJ into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['1', '2'] at speed ['10']
+SQA-SING90,1,1 SQA-SING90,1,2
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as GE at 10G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', '50GE', 'GE']
+ports_reverse is ['3', '4', '5', '6', '7', '8']
+protocol_reverse is ['FC', '128FC', '100GE', '50GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.64,1,3 with not supported port 3with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,4 with not supported port 4with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,5 with not supported port 5with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,6 with not supported port 6with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,7 with not supported port 7with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,8 with not supported port 8with protocol GE
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 128FC reverse testing########
+Lock on port 1 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 128FC
+-1 UsePortEx should return -1
+#############Now start protocol 100GE reverse testing########
+Lock on port 1 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 100GE
+-1 UsePortEx should return -1
+#############Now start protocol 50GE reverse testing########
+Lock on port 1 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 50GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.22:A2BSZFGAJF4DPZ8HT3CNYCW49Z3J70B4 starts:
+Start update license
+1.start to update license A2BSZFGAJF4DPZ8HT3CNYCW49Z3J70B4
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt A2BSZFGAJF4DPZ8HT3CNYCW49Z3J70B4 into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['3', '4'] at speed ['10']
+SQA-SING90,1,3 SQA-SING90,1,4
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['3', '4'] as GE at 10G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', '50GE', 'GE']
+ports_reverse is ['1', '2', '5', '6', '7', '8']
+protocol_reverse is ['FC', '128FC', '100GE', '50GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.64,1,1 with not supported port 1with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,2 with not supported port 2with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,5 with not supported port 5with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,6 with not supported port 6with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,7 with not supported port 7with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,8 with not supported port 8with protocol GE
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 128FC reverse testing########
+Lock on port 1 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 128FC
+-1 UsePortEx should return -1
+#############Now start protocol 100GE reverse testing########
+Lock on port 1 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 100GE
+-1 UsePortEx should return -1
+#############Now start protocol 50GE reverse testing########
+Lock on port 1 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 50GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.23:A6BSZFGAJF4DPZ8HT3CNZHM39XP6BDRZ starts:
+Start update license
+1.start to update license A6BSZFGAJF4DPZ8HT3CNZHM39XP6BDRZ
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt A6BSZFGAJF4DPZ8HT3CNZHM39XP6BDRZ into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['5', '6'] at speed ['10']
+SQA-SING90,1,5 SQA-SING90,1,6
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6'] as GE at 10G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', '50GE', 'GE']
+ports_reverse is ['1', '2', '3', '4', '7', '8']
+protocol_reverse is ['FC', '128FC', '100GE', '50GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.64,1,1 with not supported port 1with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,2 with not supported port 2with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,3 with not supported port 3with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,4 with not supported port 4with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,7 with not supported port 7with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,8 with not supported port 8with protocol GE
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 128FC reverse testing########
+Lock on port 1 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 128FC
+-1 UsePortEx should return -1
+#############Now start protocol 100GE reverse testing########
+Lock on port 1 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 100GE
+-1 UsePortEx should return -1
+#############Now start protocol 50GE reverse testing########
+Lock on port 1 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 50GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.24:AABSZFGAJF4DPZ8HT3CNYPG6QR47MNR5 starts:
+Start update license
+1.start to update license AABSZFGAJF4DPZ8HT3CNYPG6QR47MNR5
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt AABSZFGAJF4DPZ8HT3CNYPG6QR47MNR5 into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['7', '8'] at speed ['10']
+SQA-SING90,1,7 SQA-SING90,1,8
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['7', '8'] as GE at 10G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', '50GE', 'GE']
+ports_reverse is ['1', '2', '3', '4', '5', '6']
+protocol_reverse is ['FC', '128FC', '100GE', '50GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.64,1,1 with not supported port 1with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,2 with not supported port 2with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,3 with not supported port 3with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,4 with not supported port 4with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,5 with not supported port 5with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.64,1,6 with not supported port 6with protocol GE
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 128FC reverse testing########
+Lock on port 1 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 128FC
+-1 UsePortEx should return -1
+#############Now start protocol 100GE reverse testing########
+Lock on port 1 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 100GE
+-1 UsePortEx should return -1
+#############Now start protocol 50GE reverse testing########
+Lock on port 1 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 50GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Finish SQA-SING90 testing
+Now start to mixture license testing
+##########################################################################################################
+C2BSZFGAJ74DPZ8HT3CNZBDNMWDBESQS is test for old method ,use Agenlicencemanagement to write license
+ATBSZFGAJF4DPZ8HT3CNYKGJM0S6K8B2 is test for new method:use C:\Xgigliense.txt to write license
+##########################################################################################################
+##########################################################################################################
+ Update license with new method with ATBSZFGAJF4DPZ8HT3CNYKGJM0S6K8B2 is start
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt ATBSZFGAJF4DPZ8HT3CNYKGJM0S6K8B2 into chassis license txt
+Finish to write license ATBSZFGAJF4DPZ8HT3CNYKGJM0S6K8B2into Xgiglicense file with new method
+##########################################################################################################
+##########################################################################################################
+ Update license with old methold with C2BSZFGAJ74DPZ8HT3CNZBDNMWDBESQS is start
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt C2BSZFGAJ74DPZ8HT3CNZBDNMWDBESQS into chassis license txt
+##########################################################################################################
+Reboot chassis SQA-SING90now
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+Test C2BSZFGAJ74DPZ8HT3CNZBDNMWDBESQS TCAPI starts:
+Analyzer Analyzer on ports ['5', '6', '7', '8'] at speed ['32', '16', '8']
+SQA-SING90,1,5 SQA-SING90,1,6 SQA-SING90,1,7 SQA-SING90,1,8
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6', '7', '8'] as FC at 32G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6', '7', '8'] as FC at 16G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6', '7', '8'] as FC at 8G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Test ATBSZFGAJF4DPZ8HT3CNYKGJM0S6K8B2 TCAPI starts:
+Analyzer Analyzer on ports ['1', '2', '3', '4', '5', '6', '7', '8'] at speed ['10']
+SQA-SING90,1,1 SQA-SING90,1,2 SQA-SING90,1,3 SQA-SING90,1,4 SQA-SING90,1,5 SQA-SING90,1,6 SQA-SING90,1,7 SQA-SING90,1,8
+
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4', '5', '6', '7', '8'] as GE at 10G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+##########################################################################################################
+ Delete license with old methold with C2BSZFGAJ74DPZ8HT3CNZBDNMWDBESQS is start
+Chassis can be ping succeffully
+connect Host successfully 
+Successful to delete license C2BSZFGAJ74DPZ8HT3CNZBDNMWDBESQS
+ Finish delete license with old methold
+##########################################################################################################
+Finish mixture license testing
+Restore chassis SQA-SING90 old license
+Successfully restore license  ATBSZFGANQEDPZ8XT3CNYEBHWZFQRVPS into chassis license txt
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+Restore finish and wait 180s for chassis up
+Moved to next chassis
+***************************************************************************************************************************************
+***********************************************************Finish testing  SQA-SING90 now***********************************************
+***************************************************************************************************************************************

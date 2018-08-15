@@ -1,0 +1,294 @@
+Analyzer App version= 11.13.0.186992
+Analyzer Client version= 9.0.1.186073
+Start testing at 2018-05-11_H11_M34_S09
+***************************************************************************************************************************************
+***********************************************************Start testing  SQA-SING82 now***********************************************
+***************************************************************************************************************************************
+Start reading configuration from excel 
+Licence ASYXGR0DJZ4DP78HT3CNYEZYTY530YQ1 is set to run
+Licence ASYXGR0DJZ4DPF8HT3CNZQCB394AS3NF is set to run
+1={'ports': ['1', '2'], 'number': 'ASYXGR0DJZ4DP78HT3CNYEZYTY530YQ1', 'personalities': ['Analyzer_PCIEX4']}
+2={'ports': ['1', '2'], 'number': 'ASYXGR0DJZ4DPF8HT3CNZQCB394AS3NF', 'personalities': ['Analyzer_PCIEX8']}
+Finish reading configuration from excel 
+Now start to test all the license from configuration excel and test TCAPI function under every license
+Test No.1:ASYXGR0DJZ4DP78HT3CNYEZYTY530YQ1 starts:
+Start update license
+1.start to update license ASYXGR0DJZ4DP78HT3CNYEZYTY530YQ1
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt ASYXGR0DJZ4DP78HT3CNYEZYTY530YQ1 into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['1', '2'] at speed ['Auto', '8', '5', '2']
+SQA-SING82,1,1 SQA-SING82,1,2
+
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+need to change width in lancontrol to X4,use the configuration to do this ,I can't find the TCPAI CMD to change width
+0 LoadTccFileIntoCurrentPorts should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as PCIE at AutoG : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as PCIE at 8G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as PCIE at 5G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as PCIE at 2G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['PCIE', 'PCIE']
+ports_reverse is ['3', '4', '5', '6', '7', '8']
+protocol_reverse is []
+############Port reverse teting begin############
+Protocl PCIE do not test port reverese ,because it only support 2 ports
+############port reverse teting finish############
+############Protocol reverse teting begin############
+Protocl PCIE chassis only support one protocol,so do not test protocl reverse 
+############protocl reverse teting finish############
+Test No.2:ASYXGR0DJZ4DPF8HT3CNZQCB394AS3NF starts:
+Start update license
+1.start to update license ASYXGR0DJZ4DPF8HT3CNZQCB394AS3NF
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt ASYXGR0DJZ4DPF8HT3CNZQCB394AS3NF into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['1', '2'] at speed ['Auto', '8', '5', '2']
+SQA-SING82,1,1 SQA-SING82,1,2
+
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as PCIE at AutoG : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as PCIE at 8G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as PCIE at 5G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as PCIE at 2G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['PCIE', 'PCIE']
+ports_reverse is ['3', '4', '5', '6', '7', '8']
+protocol_reverse is []
+############Port reverse teting begin############
+Protocl PCIE do not test port reverese ,because it only support 2 ports
+############port reverse teting finish############
+############Protocol reverse teting begin############
+Protocl PCIE chassis only support one protocol,so do not test protocl reverse 
+############protocl reverse teting finish############
+Finish SQA-SING82 testing
+Now start to mixture license testing
+##########################################################################################################
+ASYXGR0DJZ4DPF8HT3CNZQCB394AS3NF is test for old method ,use Agenlicencemanagement to write license
+ASYXGR0DJZ4DP78HT3CNYEZYTY530YQ1 is test for new method:use C:\Xgigliense.txt to write license
+##########################################################################################################
+##########################################################################################################
+ Update license with new method with ASYXGR0DJZ4DP78HT3CNYEZYTY530YQ1 is start
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt ASYXGR0DJZ4DP78HT3CNYEZYTY530YQ1 into chassis license txt
+Finish to write license ASYXGR0DJZ4DP78HT3CNYEZYTY530YQ1into Xgiglicense file with new method
+##########################################################################################################
+##########################################################################################################
+ Update license with old methold with ASYXGR0DJZ4DPF8HT3CNZQCB394AS3NF is start
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt ASYXGR0DJZ4DPF8HT3CNZQCB394AS3NF into chassis license txt
+##########################################################################################################
+Reboot chassis SQA-SING82now
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+Test ASYXGR0DJZ4DPF8HT3CNZQCB394AS3NF TCAPI starts:
+Analyzer Analyzer on ports ['1', '2'] at speed ['Auto', '8', '5', '2']
+SQA-SING82,1,1 SQA-SING82,1,2
+
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as PCIE at AutoG : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as PCIE at 8G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as PCIE at 5G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as PCIE at 2G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Test ASYXGR0DJZ4DP78HT3CNYEZYTY530YQ1 TCAPI starts:
+Analyzer Analyzer on ports ['1', '2'] at speed ['Auto', '8', '5', '2']
+SQA-SING82,1,1 SQA-SING82,1,2
+
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as PCIE at AutoG : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as PCIE at 8G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as PCIE at 5G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as PCIE at 2G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+##########################################################################################################
+ Delete license with old methold with ASYXGR0DJZ4DPF8HT3CNZQCB394AS3NF is start
+Chassis can be ping succeffully
+connect Host successfully 
+Successful to delete license ASYXGR0DJZ4DPF8HT3CNZQCB394AS3NF
+ Finish delete license with old methold
+##########################################################################################################
+Finish mixture license testing
+Restore chassis SQA-SING82 old license
+Successfully restore license  ASYXGR0DJZ4DPF8HT3CNZQCB394AS3NF into chassis license txt
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+Restore finish and wait 180s for chassis up
+Moved to next chassis
+***************************************************************************************************************************************
+***********************************************************Finish testing  SQA-SING82 now***********************************************
+***************************************************************************************************************************************

@@ -1,0 +1,181 @@
+Analyzer App version= 11.14.0.188074
+Start testing at 2018-06-01_H10_M40_S28
+***************************************************************************************************************************************
+***********************************************************Start testing  SQA-SING82 now***********************************************
+***************************************************************************************************************************************
+Start reading configuration from excel 
+Licence ASYXGR0DJZ4DP78HT3CNYEZYTY530YQ1 is set to not run ,if want to run,please set run=1
+Licence ASYXGR0DJZ4DPF8HT3CNZQCB394AS3NF is set to not run ,if want to run,please set run=1
+Licence ASYXGR0DJZ4HPZGHT3CNZVY183WNEJ2S is set to run
+Licence ASYXGR0DJZ4HP08HT3CNZXAXG48NX8B0 is set to not run ,if want to run,please set run=1
+Licence ASYXGR0DJZ4HPZ8HT3CNYD1BQEZ638X is set to not run ,if want to run,please set run=1
+Licence ASYXGR0DJZ4SPZ8HT3CNYFQKZ21HC6W9 is set to not run ,if want to run,please set run=1
+1={'ports': ['1', '2'], 'number': 'ASYXGR0DJZ4HPZGHT3CNZVY183WNEJ2S', 'personalities': ['JAMMER_PCIE-4']}
+Finish reading configuration from excel 
+Now start to test all the license from configuration excel and test TCAPI function under every license
+Test No.1:ASYXGR0DJZ4HPZGHT3CNZVY183WNEJ2S starts:
+Start update license
+1.start to update license ASYXGR0DJZ4HPZGHT3CNZVY183WNEJ2S
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt ASYXGR0DJZ4HPZGHT3CNZVY183WNEJ2S into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+JAMMER JAMMER on ports ['1', '2'] at speed ['Auto', '8', '5', '2']
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['PCIE-8', 'PCIE', 'PCIE-4', 'PCIE']
+ports_reverse is ['3', '4', '5', '6', '7', '8']
+protocol_reverse is ['PCIE-8', 'PCIE', 'PCIE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.197,1,3 with not supported port 3with protocol PCIE-4
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.197,1,4 with not supported port 4with protocol PCIE-4
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.197,1,5 with not supported port 5with protocol PCIE-4
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.197,1,6 with not supported port 6with protocol PCIE-4
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.197,1,7 with not supported port 7with protocol PCIE-4
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.197,1,8 with not supported port 8with protocol PCIE-4
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol PCIE-8 reverse testing########
+Lock on port 1 with not supported protocol PCIE-8
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol PCIE-8
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol PCIE-8
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol PCIE-8
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol PCIE-8
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol PCIE-8
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol PCIE-8
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol PCIE-8
+-1 UsePortEx should return -1
+#############Now start protocol PCIE reverse testing########
+Lock on port 1 with not supported protocol PCIE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol PCIE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol PCIE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol PCIE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol PCIE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol PCIE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol PCIE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol PCIE
+-1 UsePortEx should return -1
+#############Now start protocol PCIE reverse testing########
+Lock on port 1 with not supported protocol PCIE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol PCIE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol PCIE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol PCIE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol PCIE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol PCIE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol PCIE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol PCIE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+the current protocol is PCIE-4
+
+port pair [1]  have been locked 
+
+Test suite has been created
+
+SetTestMode successfully
+
+trigger name set successfully
+
+1 set lane to 0-1
+
+ start attach test suite to port pair1
+
+1 AttachTestSuite for port pair1 passed!
+
+  test started running...
+
+  jam test has started
+
+  jam test stopped
+
+
+
+1 set lane to 0-2
+
+ start attach test suite to port pair1
+
+1 AttachTestSuite for port pair1 passed!
+
+  test started running...
+
+  jam test has started
+
+  jam test stopped
+
+
+
+1 set lane to 0-3
+
+ start attach test suite to port pair1
+
+1 AttachTestSuite for port pair1 passed!
+
+  test started running...
+
+  jam test has started
+
+  jam test stopped
+
+
+
+1 set lane to 0-4
+
+ start attach test suite to port pair1
+
+1 AttachTestSuite for port pair1 passed!
+
+  test started running...
+
+  jam test has started
+
+  jam test stopped
+
+
+
+1Port pair1 has been unlocked
+
+Finish SQA-SING82 testing
+SQA-SING82 will not test mixture license testing
+Restore chassis SQA-SING82 old license
+Successfully restore license  ASYXGR0DJZ4DPF8HT3CNZQCB394AS3NF into chassis license txt
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+Restore finish and wait 180s for chassis up
+Moved to next chassis
+***************************************************************************************************************************************
+***********************************************************Finish testing  SQA-SING82 now***********************************************
+***************************************************************************************************************************************

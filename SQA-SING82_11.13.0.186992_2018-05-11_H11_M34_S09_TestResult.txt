@@ -1,0 +1,6 @@
+Test No.1:ASYXGR0DJZ4DP78HT3CNYEZYTY530YQ1 is PASS
+Test No.2:ASYXGR0DJZ4DPF8HT3CNZQCB394AS3NF is PASS
+#############below two license is for mixture license testing ##########
+Test on ASYXGR0DJZ4DPF8HT3CNZQCB394AS3NF is PASS
+Test on ASYXGR0DJZ4DP78HT3CNYEZYTY530YQ1 is PASS
+Restore license finished is PASS

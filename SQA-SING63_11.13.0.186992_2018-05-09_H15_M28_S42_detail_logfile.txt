@@ -1,0 +1,1556 @@
+Analyzer App version= 11.13.0.186992
+Analyzer Client version= 9.0.1.186073
+Start testing at 2018-05-09_H15_M28_S42
+***************************************************************************************************************************************
+***********************************************************Start testing  SQA-SING63 now***********************************************
+***************************************************************************************************************************************
+Start reading configuration from excel 
+Licence ASGXHG0CJF4DPZ8HT3CNZ28HETW8N92Q is set to run
+Licence CXGXHG0CJF4DPZ8HT3CNYN9QZE09V4BN is set to run
+Licence C1GXHG0CJF4DPZ8HT3CNZJAC7NJH3BEW is set to run
+Licence AXGXHG0CJF4DPZ8HT3CNY80GA8M5X7ZM is set to run
+Licence A1GXHG0CJF4DPZ8HT3CNZ5W5B9HCWZTC is set to run
+Licence A5GXHG0CJF4DPZ8HT3CNZ7KHS2PGKVQM is set to run
+Licence A9GXHG0CJF4DPZ8HT3CNZD53XSPCRN19 is set to run
+Licence ASGXHG0CJ74DPZ8HT3CNZDJ290J38PWF is set to run
+Licence CXGXHG0CJ74DPZ8HT3CNZAZG198NQFWZ is set to run
+Licence C1GXHG0CJ74DPZ8HT3CNYYCK5ETXXEAY is set to run
+Licence AXGXHG0CJ74DPZ8HT3CNZE7W4WS32736 is set to run
+Licence A1GXHG0CJ74DPZ8HT3CNYHS60YSVTQ7C is set to run
+Licence A5GXHG0CJ74DPZ8HT3CNY4K93A0Q0X4Z is set to run
+Licence A9GXHG0CJ74DPZ8HT3CNZ888G534A4E7 is set to run
+Licence ASGXHG0CJZ4DYZ8HT3CNYAEZFGE5T1KZ is set to run
+11={'ports': ['1', '2'], 'number': 'AXGXHG0CJ74DPZ8HT3CNZE7W4WS32736', 'personalities': ['Analyzer_FC']}
+10={'ports': ['5', '6', '7', '8'], 'number': 'C1GXHG0CJ74DPZ8HT3CNYYCK5ETXXEAY', 'personalities': ['Analyzer_FC']}
+13={'ports': ['5', '6'], 'number': 'A5GXHG0CJ74DPZ8HT3CNY4K93A0Q0X4Z', 'personalities': ['Analyzer_FC']}
+12={'ports': ['3', '4'], 'number': 'A1GXHG0CJ74DPZ8HT3CNYHS60YSVTQ7C', 'personalities': ['Analyzer_FC']}
+15={'ports': ['1', '2'], 'number': 'ASGXHG0CJZ4DYZ8HT3CNYAEZFGE5T1KZ', 'personalities': ['Analyzer_40GE']}
+14={'ports': ['7', '8'], 'number': 'A9GXHG0CJ74DPZ8HT3CNZ888G534A4E7', 'personalities': ['Analyzer_FC']}
+1={'ports': ['1', '2', '3', '4', '5', '6', '7', '8'], 'number': 'ASGXHG0CJF4DPZ8HT3CNZ28HETW8N92Q', 'personalities': ['Analyzer_10GE']}
+3={'ports': ['5', '6', '7', '8'], 'number': 'C1GXHG0CJF4DPZ8HT3CNZJAC7NJH3BEW', 'personalities': ['Analyzer_10GE']}
+2={'ports': ['1', '2', '3', '4'], 'number': 'CXGXHG0CJF4DPZ8HT3CNYN9QZE09V4BN', 'personalities': ['Analyzer_10GE']}
+5={'ports': ['3', '4'], 'number': 'A1GXHG0CJF4DPZ8HT3CNZ5W5B9HCWZTC', 'personalities': ['Analyzer_10GE']}
+4={'ports': ['1', '2'], 'number': 'AXGXHG0CJF4DPZ8HT3CNY80GA8M5X7ZM', 'personalities': ['Analyzer_10GE']}
+7={'ports': ['7', '8'], 'number': 'A9GXHG0CJF4DPZ8HT3CNZD53XSPCRN19', 'personalities': ['Analyzer_10GE']}
+6={'ports': ['5', '6'], 'number': 'A5GXHG0CJF4DPZ8HT3CNZ7KHS2PGKVQM', 'personalities': ['Analyzer_10GE']}
+9={'ports': ['1', '2', '3', '4'], 'number': 'CXGXHG0CJ74DPZ8HT3CNZAZG198NQFWZ', 'personalities': ['Analyzer_FC']}
+8={'ports': ['1', '2', '3', '4', '5', '6', '7', '8'], 'number': 'ASGXHG0CJ74DPZ8HT3CNZDJ290J38PWF', 'personalities': ['Analyzer_FC']}
+Finish reading configuration from excel 
+Now start to test all the license from configuration excel and test TCAPI function under every license
+Test No.1:ASGXHG0CJF4DPZ8HT3CNZ28HETW8N92Q starts:
+Start update license
+1.start to update license ASGXHG0CJF4DPZ8HT3CNZ28HETW8N92Q
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt ASGXHG0CJF4DPZ8HT3CNZ28HETW8N92Q into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['1', '2', '3', '4', '5', '6', '7', '8'] at speed ['10']
+SQA-SING63,1,1 SQA-SING63,1,2 SQA-SING63,1,3 SQA-SING63,1,4 SQA-SING63,1,5 SQA-SING63,1,6 SQA-SING63,1,7 SQA-SING63,1,8
+
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4', '5', '6', '7', '8'] as GE at 10G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '40GE']
+ports_reverse is []
+protocol_reverse is ['FC', '40GE']
+############Port reverse teting begin############
+ports_reverse is empyt ,so do not test port reverse
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 40GE reverse testing########
+Lock on port 1 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 40GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.2:CXGXHG0CJF4DPZ8HT3CNYN9QZE09V4BN starts:
+Start update license
+1.start to update license CXGXHG0CJF4DPZ8HT3CNYN9QZE09V4BN
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt CXGXHG0CJF4DPZ8HT3CNYN9QZE09V4BN into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['1', '2', '3', '4'] at speed ['10']
+SQA-SING63,1,1 SQA-SING63,1,2 SQA-SING63,1,3 SQA-SING63,1,4
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4'] as GE at 10G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '40GE']
+ports_reverse is ['5', '6', '7', '8']
+protocol_reverse is ['FC', '40GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.195,1,5 with not supported port 5with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,6 with not supported port 6with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,7 with not supported port 7with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,8 with not supported port 8with protocol GE
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 40GE reverse testing########
+Lock on port 1 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 40GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.3:C1GXHG0CJF4DPZ8HT3CNZJAC7NJH3BEW starts:
+Start update license
+1.start to update license C1GXHG0CJF4DPZ8HT3CNZJAC7NJH3BEW
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt C1GXHG0CJF4DPZ8HT3CNZJAC7NJH3BEW into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['5', '6', '7', '8'] at speed ['10']
+SQA-SING63,1,5 SQA-SING63,1,6 SQA-SING63,1,7 SQA-SING63,1,8
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6', '7', '8'] as GE at 10G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '40GE']
+ports_reverse is ['1', '2', '3', '4']
+protocol_reverse is ['FC', '40GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.195,1,1 with not supported port 1with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,2 with not supported port 2with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,3 with not supported port 3with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,4 with not supported port 4with protocol GE
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 40GE reverse testing########
+Lock on port 1 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 40GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.4:AXGXHG0CJF4DPZ8HT3CNY80GA8M5X7ZM starts:
+Start update license
+1.start to update license AXGXHG0CJF4DPZ8HT3CNY80GA8M5X7ZM
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt AXGXHG0CJF4DPZ8HT3CNY80GA8M5X7ZM into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['1', '2'] at speed ['10']
+SQA-SING63,1,1 SQA-SING63,1,2
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as GE at 10G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '40GE']
+ports_reverse is ['3', '4', '5', '6', '7', '8']
+protocol_reverse is ['FC', '40GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.195,1,3 with not supported port 3with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,4 with not supported port 4with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,5 with not supported port 5with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,6 with not supported port 6with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,7 with not supported port 7with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,8 with not supported port 8with protocol GE
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 40GE reverse testing########
+Lock on port 1 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 40GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.5:A1GXHG0CJF4DPZ8HT3CNZ5W5B9HCWZTC starts:
+Start update license
+1.start to update license A1GXHG0CJF4DPZ8HT3CNZ5W5B9HCWZTC
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt A1GXHG0CJF4DPZ8HT3CNZ5W5B9HCWZTC into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['3', '4'] at speed ['10']
+SQA-SING63,1,3 SQA-SING63,1,4
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['3', '4'] as GE at 10G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '40GE']
+ports_reverse is ['1', '2', '5', '6', '7', '8']
+protocol_reverse is ['FC', '40GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.195,1,1 with not supported port 1with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,2 with not supported port 2with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,5 with not supported port 5with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,6 with not supported port 6with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,7 with not supported port 7with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,8 with not supported port 8with protocol GE
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 40GE reverse testing########
+Lock on port 1 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 40GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.6:A5GXHG0CJF4DPZ8HT3CNZ7KHS2PGKVQM starts:
+Start update license
+1.start to update license A5GXHG0CJF4DPZ8HT3CNZ7KHS2PGKVQM
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt A5GXHG0CJF4DPZ8HT3CNZ7KHS2PGKVQM into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['5', '6'] at speed ['10']
+SQA-SING63,1,5 SQA-SING63,1,6
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6'] as GE at 10G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '40GE']
+ports_reverse is ['1', '2', '3', '4', '7', '8']
+protocol_reverse is ['FC', '40GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.195,1,1 with not supported port 1with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,2 with not supported port 2with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,3 with not supported port 3with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,4 with not supported port 4with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,7 with not supported port 7with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,8 with not supported port 8with protocol GE
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 40GE reverse testing########
+Lock on port 1 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 40GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.7:A9GXHG0CJF4DPZ8HT3CNZD53XSPCRN19 starts:
+Start update license
+1.start to update license A9GXHG0CJF4DPZ8HT3CNZD53XSPCRN19
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt A9GXHG0CJF4DPZ8HT3CNZD53XSPCRN19 into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['7', '8'] at speed ['10']
+SQA-SING63,1,7 SQA-SING63,1,8
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['7', '8'] as GE at 10G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '40GE']
+ports_reverse is ['1', '2', '3', '4', '5', '6']
+protocol_reverse is ['FC', '40GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.195,1,1 with not supported port 1with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,2 with not supported port 2with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,3 with not supported port 3with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,4 with not supported port 4with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,5 with not supported port 5with protocol GE
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,6 with not supported port 6with protocol GE
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 40GE reverse testing########
+Lock on port 1 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 40GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.8:ASGXHG0CJ74DPZ8HT3CNZDJ290J38PWF starts:
+Start update license
+1.start to update license ASGXHG0CJ74DPZ8HT3CNZDJ290J38PWF
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt ASGXHG0CJ74DPZ8HT3CNZDJ290J38PWF into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['1', '2', '3', '4', '5', '6', '7', '8'] at speed ['4', '8', '16', 'Auto']
+SQA-SING63,1,1 SQA-SING63,1,2 SQA-SING63,1,3 SQA-SING63,1,4 SQA-SING63,1,5 SQA-SING63,1,6 SQA-SING63,1,7 SQA-SING63,1,8
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4', '5', '6', '7', '8'] as FC at 4G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4', '5', '6', '7', '8'] as FC at 8G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4', '5', '6', '7', '8'] as FC at 16G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+Capturing has already stopped.
+-1 StopCapture should return 0
+StopCapture on Ports ['1', '2', '3', '4', '5', '6', '7', '8'] as FC at AutoG : FAIL
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Test No.9:CXGXHG0CJ74DPZ8HT3CNZAZG198NQFWZ starts:
+Start update license
+1.start to update license CXGXHG0CJ74DPZ8HT3CNZAZG198NQFWZ
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt CXGXHG0CJ74DPZ8HT3CNZAZG198NQFWZ into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['1', '2', '3', '4'] at speed ['4', '8', '16', 'Auto']
+SQA-SING63,1,1 SQA-SING63,1,2 SQA-SING63,1,3 SQA-SING63,1,4
+
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4'] as FC at 4G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4'] as FC at 8G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4'] as FC at 16G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4'] as FC at AutoG : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '40GE']
+ports_reverse is ['5', '6', '7', '8']
+protocol_reverse is ['GE', '40GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.195,1,5 with not supported port 5with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,6 with not supported port 6with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,7 with not supported port 7with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,8 with not supported port 8with protocol FC
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+#############Now start protocol 40GE reverse testing########
+Lock on port 1 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 40GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.10:C1GXHG0CJ74DPZ8HT3CNYYCK5ETXXEAY starts:
+Start update license
+1.start to update license C1GXHG0CJ74DPZ8HT3CNYYCK5ETXXEAY
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt C1GXHG0CJ74DPZ8HT3CNYYCK5ETXXEAY into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['5', '6', '7', '8'] at speed ['4', '8', '16', 'Auto']
+SQA-SING63,1,5 SQA-SING63,1,6 SQA-SING63,1,7 SQA-SING63,1,8
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6', '7', '8'] as FC at 4G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6', '7', '8'] as FC at 8G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6', '7', '8'] as FC at 16G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6', '7', '8'] as FC at AutoG : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '40GE']
+ports_reverse is ['1', '2', '3', '4']
+protocol_reverse is ['GE', '40GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.195,1,1 with not supported port 1with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,2 with not supported port 2with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,3 with not supported port 3with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,4 with not supported port 4with protocol FC
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+#############Now start protocol 40GE reverse testing########
+Lock on port 1 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 40GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.11:AXGXHG0CJ74DPZ8HT3CNZE7W4WS32736 starts:
+Start update license
+1.start to update license AXGXHG0CJ74DPZ8HT3CNZE7W4WS32736
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt AXGXHG0CJ74DPZ8HT3CNZE7W4WS32736 into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['1', '2'] at speed ['4', '8', '16', 'Auto']
+SQA-SING63,1,1 SQA-SING63,1,2
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as FC at 4G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as FC at 8G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as FC at 16G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as FC at AutoG : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '40GE']
+ports_reverse is ['3', '4', '5', '6', '7', '8']
+protocol_reverse is ['GE', '40GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.195,1,3 with not supported port 3with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,4 with not supported port 4with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,5 with not supported port 5with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,6 with not supported port 6with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,7 with not supported port 7with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,8 with not supported port 8with protocol FC
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+#############Now start protocol 40GE reverse testing########
+Lock on port 1 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 40GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.12:A1GXHG0CJ74DPZ8HT3CNYHS60YSVTQ7C starts:
+Start update license
+1.start to update license A1GXHG0CJ74DPZ8HT3CNYHS60YSVTQ7C
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt A1GXHG0CJ74DPZ8HT3CNYHS60YSVTQ7C into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['3', '4'] at speed ['4', '8', '16', 'Auto']
+SQA-SING63,1,3 SQA-SING63,1,4
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['3', '4'] as FC at 4G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['3', '4'] as FC at 8G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['3', '4'] as FC at 16G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['3', '4'] as FC at AutoG : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '40GE']
+ports_reverse is ['1', '2', '5', '6', '7', '8']
+protocol_reverse is ['GE', '40GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.195,1,1 with not supported port 1with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,2 with not supported port 2with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,5 with not supported port 5with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,6 with not supported port 6with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,7 with not supported port 7with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,8 with not supported port 8with protocol FC
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+#############Now start protocol 40GE reverse testing########
+Lock on port 1 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 40GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.13:A5GXHG0CJ74DPZ8HT3CNY4K93A0Q0X4Z starts:
+Start update license
+1.start to update license A5GXHG0CJ74DPZ8HT3CNY4K93A0Q0X4Z
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt A5GXHG0CJ74DPZ8HT3CNY4K93A0Q0X4Z into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['5', '6'] at speed ['4', '8', '16', 'Auto']
+SQA-SING63,1,5 SQA-SING63,1,6
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6'] as FC at 4G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6'] as FC at 8G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6'] as FC at 16G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['5', '6'] as FC at AutoG : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '40GE']
+ports_reverse is ['1', '2', '3', '4', '7', '8']
+protocol_reverse is ['GE', '40GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.195,1,1 with not supported port 1with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,2 with not supported port 2with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,3 with not supported port 3with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,4 with not supported port 4with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,7 with not supported port 7with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,8 with not supported port 8with protocol FC
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+#############Now start protocol 40GE reverse testing########
+Lock on port 1 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 40GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.14:A9GXHG0CJ74DPZ8HT3CNZ888G534A4E7 starts:
+Start update license
+1.start to update license A9GXHG0CJ74DPZ8HT3CNZ888G534A4E7
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt A9GXHG0CJ74DPZ8HT3CNZ888G534A4E7 into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['7', '8'] at speed ['4', '8', '16', 'Auto']
+SQA-SING63,1,7 SQA-SING63,1,8
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['7', '8'] as FC at 4G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['7', '8'] as FC at 8G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['7', '8'] as FC at 16G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['7', '8'] as FC at AutoG : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '40GE']
+ports_reverse is ['1', '2', '3', '4', '5', '6']
+protocol_reverse is ['GE', '40GE']
+############Port reverse teting begin############
+ports_lock on 10.86.88.195,1,1 with not supported port 1with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,2 with not supported port 2with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,3 with not supported port 3with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,4 with not supported port 4with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,5 with not supported port 5with protocol FC
+-1 UsePortEx should return -1
+ports_lock on 10.86.88.195,1,6 with not supported port 6with protocol FC
+-1 UsePortEx should return -1
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+#############Now start protocol 40GE reverse testing########
+Lock on port 1 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 40GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Test No.15:ASGXHG0CJZ4DYZ8HT3CNYAEZFGE5T1KZ starts:
+Start update license
+1.start to update license ASGXHG0CJZ4DYZ8HT3CNYAEZFGE5T1KZ
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt ASGXHG0CJZ4DYZ8HT3CNYAEZFGE5T1KZ into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+Analyzer Analyzer on ports ['1', '2'] at speed ['40']
+SQA-SING63,1,1 SQA-SING63,1,2
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2'] as 40GE at 40G : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '40GE']
+ports_reverse is ['3', '4', '5', '6', '7', '8']
+protocol_reverse is ['FC']
+############Port reverse teting begin############
+Protocl 40GE do not test port reverese ,because it only support 2 ports
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+Finish SQA-SING63 testing
+Now start to mixture license testing
+##########################################################################################################
+ASGXHG0CJ74DPZ8HT3CNZDJ290J38PWF is test for old method ,use Agenlicencemanagement to write license
+A1GXHG0CJ74DPZ8HT3CNYHS60YSVTQ7C is test for new method:use C:\Xgigliense.txt to write license
+##########################################################################################################
+##########################################################################################################
+ Update license with new method with A1GXHG0CJ74DPZ8HT3CNYHS60YSVTQ7C is start
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt A1GXHG0CJ74DPZ8HT3CNYHS60YSVTQ7C into chassis license txt
+Finish to write license A1GXHG0CJ74DPZ8HT3CNYHS60YSVTQ7Cinto Xgiglicense file with new method
+##########################################################################################################
+##########################################################################################################
+ Update license with old methold with ASGXHG0CJ74DPZ8HT3CNZDJ290J38PWF is start
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt ASGXHG0CJ74DPZ8HT3CNZDJ290J38PWF into chassis license txt
+##########################################################################################################
+Reboot chassis SQA-SING63now
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+Test ASGXHG0CJ74DPZ8HT3CNZDJ290J38PWF TCAPI starts:
+Analyzer Analyzer on ports ['1', '2', '3', '4', '5', '6', '7', '8'] at speed ['4', '8', '16', 'Auto']
+SQA-SING63,1,1 SQA-SING63,1,2 SQA-SING63,1,3 SQA-SING63,1,4 SQA-SING63,1,5 SQA-SING63,1,6 SQA-SING63,1,7 SQA-SING63,1,8
+Invalid license
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4', '5', '6', '7', '8'] as FC at 4G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4', '5', '6', '7', '8'] as FC at 8G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4', '5', '6', '7', '8'] as FC at 16G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['1', '2', '3', '4', '5', '6', '7', '8'] as FC at AutoG : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+Test A1GXHG0CJ74DPZ8HT3CNYHS60YSVTQ7C TCAPI starts:
+Analyzer Analyzer on ports ['3', '4'] at speed ['4', '8', '16', 'Auto']
+SQA-SING63,1,3 SQA-SING63,1,4
+
+0 Successfully discovery chassis should return 0
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['3', '4'] as FC at 4G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['3', '4'] as FC at 8G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['3', '4'] as FC at 16G : PASS
+
+0 set speed should return 0
+
+0 CaptureMode should return 0
+0 ApplyConfiguration should return 0
+
+0 StartCapture should return 0
+
+0 StopCapture should return 0
+Analyzer Function Check on Ports['3', '4'] as FC at AutoG : PASS
+0 UnlockPorts should return 0
+0 CleanUp should return 0
+########################################################################################################################################
+##########################################################################################################
+ Delete license with old methold with ASGXHG0CJ74DPZ8HT3CNZDJ290J38PWF is start
+Chassis can be ping succeffully
+connect Host successfully 
+Successful to delete license ASGXHG0CJ74DPZ8HT3CNZDJ290J38PWF
+ Finish delete license with old methold
+##########################################################################################################
+Finish mixture license testing
+Restore chassis SQA-SING63 old license
+Successfully restore license  AXGXHG0CJB4DPZ8HT3CNZAS3KZZ8DZ09 into chassis license txt
+Successfully restore license  ASGXHG0CJQMFPZ8HT3CNYDVHSK6Q8A8Z into chassis license txt
+Successfully restore license  ASGXHG0CNFMFYZ8HT3CNYPMK44HW9FM1 into chassis license txt
+Successfully restore license  A9GXHG0CJB4DPZ8HT3CNZAHJGPSHV4B1 into chassis license txt
+Successfully restore license  ASGXHG0CMF4FPZ8HT3CNYH599JBZHKE0 into chassis license txt
+Successfully restore license  ASGXHG0CNQMFPZ8HT3CNZCZNRJC2YMJT into chassis license txt
+Successfully restore license  AXGXHG0CMV4DPZ8HT3CNZX8ZGZKSK807 into chassis license txt
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+Restore finish and wait 180s for chassis up
+Moved to next chassis
+***************************************************************************************************************************************
+***********************************************************Finish testing  SQA-SING63 now***********************************************
+***************************************************************************************************************************************

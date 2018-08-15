@@ -1,0 +1,146 @@
+Analyzer App version= 11.13.0.186992
+Start testing at 2018-05-17_H10_M55_S13
+***************************************************************************************************************************************
+***********************************************************Start testing  SQA-SING63 now***********************************************
+***************************************************************************************************************************************
+Start reading configuration from excel 
+Licence ASGXHG0CJF4DPZ8HT3CNZ28HETW8N92Q is set to not run ,if want to run,please set run=1
+Licence CXGXHG0CJF4DPZ8HT3CNYN9QZE09V4BN is set to not run ,if want to run,please set run=1
+Licence C1GXHG0CJF4DPZ8HT3CNZJAC7NJH3BEW is set to not run ,if want to run,please set run=1
+Licence AXGXHG0CJF4DPZ8HT3CNY80GA8M5X7ZM is set to not run ,if want to run,please set run=1
+Licence A1GXHG0CJF4DPZ8HT3CNZ5W5B9HCWZTC is set to not run ,if want to run,please set run=1
+Licence A5GXHG0CJF4DPZ8HT3CNZ7KHS2PGKVQM is set to not run ,if want to run,please set run=1
+Licence A9GXHG0CJF4DPZ8HT3CNZD53XSPCRN19 is set to not run ,if want to run,please set run=1
+Licence ASGXHG0CJ74DPZ8HT3CNZDJ290J38PWF is set to not run ,if want to run,please set run=1
+Licence CXGXHG0CJ74DPZ8HT3CNZAZG198NQFWZ is set to not run ,if want to run,please set run=1
+Licence C1GXHG0CJ74DPZ8HT3CNYYCK5ETXXEAY is set to not run ,if want to run,please set run=1
+Licence AXGXHG0CJ74DPZ8HT3CNZE7W4WS32736 is set to not run ,if want to run,please set run=1
+Licence A1GXHG0CJ74DPZ8HT3CNYHS60YSVTQ7C is set to not run ,if want to run,please set run=1
+Licence A5GXHG0CJ74DPZ8HT3CNY4K93A0Q0X4Z is set to not run ,if want to run,please set run=1
+Licence A9GXHG0CJ74DPZ8HT3CNZ888G534A4E7 is set to not run ,if want to run,please set run=1
+Licence ASGXHG0CJZ4DYZ8HT3CNYAEZFGE5T1KZ is set to not run ,if want to run,please set run=1
+Licence ASGXHG0CJZMDPZ8HT3CNY23X7V6RB5YC is set to run
+Licence CXGXHG0CJZMDPZ8HT3CNZ5524DBS5S29 is set to not run ,if want to run,please set run=1
+Licence C1GXHG0CJZMDPZ8HT3CNYYDNHBZKR2Q0 is set to not run ,if want to run,please set run=1
+Licence AXGXHG0CJZMDPZ8HT3CNZMS64FTGD8P0 is set to not run ,if want to run,please set run=1
+Licence A1GXHG0CJZMDPZ8HT3CNZBEAZDV9GP9N is set to not run ,if want to run,please set run=1
+Licence A5GXHG0CJZMDPZ8HT3CNZT3NF7N6S5BS is set to not run ,if want to run,please set run=1
+Licence A9GXHG0CJZMDPZ8HT3CNZ89PSZCG91F1 is set to not run ,if want to run,please set run=1
+Licence ASGXHG0CJZ4FPZ8HT3CNZCZFZGRFDD79 is set to not run ,if want to run,please set run=1
+Licence CXGXHG0CJZ4FPZ8HT3CNYH7WJZ17F7KX is set to not run ,if want to run,please set run=1
+Licence C1GXHG0CJZ4FPZ8HT3CNY4VNTHNT6EW0 is set to not run ,if want to run,please set run=1
+Licence AXGXHG0CJZ4FPZ8HT3CNY6K46VAXA6P9 is set to not run ,if want to run,please set run=1
+Licence A1GXHG0CJZ4FPZ8HT3CNYVRPHH235JPV is set to not run ,if want to run,please set run=1
+Licence A5GXHG0CJZ4FPZ8HT3CNZY3NCBSKRX3Y is set to not run ,if want to run,please set run=1
+Licence A9GXHG0CJZ4FPZ8HT3CNYN2E40RS616M is set to not run ,if want to run,please set run=1
+Licence ASGXHG0CMZ4DPZ8HT3CNYHHHVVAPM1WJ is set to not run ,if want to run,please set run=1
+Licence CXGXHG0CMZ4DPZ8HT3CNZXXFFFW1B8F4 is set to not run ,if want to run,please set run=1
+Licence C1GXHG0CMZ4DPZ8HT3CNYK1DS29EK9KY is set to not run ,if want to run,please set run=1
+Licence AXGXHG0CMZ4DPZ8HT3CNYX8XAB8Z1PMN is set to not run ,if want to run,please set run=1
+Licence A1GXHG0CMZ4DPZ8HT3CNY71YKBXJQENZ is set to not run ,if want to run,please set run=1
+Licence A5GXHG0CMZ4DPZ8HT3CNY7FXZCR57V1M is set to not run ,if want to run,please set run=1
+Licence A9GXHG0CMZ4DPZ8HT3CNY9JGPX2SX8PR is set to not run ,if want to run,please set run=1
+Licence ASGXHG0CKZ4DPZ8HT3CNZRWPNVTEBY5F is set to not run ,if want to run,please set run=1
+Licence CXGXHG0CKZ4DPZ8HT3CNY8JQG5PBGW5R is set to not run ,if want to run,please set run=1
+Licence C1GXHG0CKZ4DPZ8HT3CNYBVY8GZ1VVP5 is set to not run ,if want to run,please set run=1
+Licence AXGXHG0CKZ4DPZ8HT3CNY09C8G94HCQ8 is set to not run ,if want to run,please set run=1
+Licence A1GXHG0CKZ4DPZ8HT3CNZKWN0FVB7CH0 is set to not run ,if want to run,please set run=1
+Licence A5GXHG0CKZ4DPZ8HT3CNY311TTARGX9T is set to not run ,if want to run,please set run=1
+Licence A9GXHG0CKZ4DPZ8HT3CNZKQBAJH7MREX is set to not run ,if want to run,please set run=1
+1={'ports': ['1', '2', '3', '4', '5', '6', '7', '8'], 'number': 'ASGXHG0CJZMDPZ8HT3CNY23X7V6RB5YC', 'personalities': ['LOADTESTER_FC']}
+Finish reading configuration from excel 
+Now start to test all the license from configuration excel and test TCAPI function under every license
+Test No.1:ASGXHG0CJZMDPZ8HT3CNY23X7V6RB5YC starts:
+Start update license
+1.start to update license ASGXHG0CJZMDPZ8HT3CNY23X7V6RB5YC
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt ASGXHG0CJZMDPZ8HT3CNY23X7V6RB5YC into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+LOADTESTER LOADTESTER on ports ['1', '2', '3', '4', '5', '6', '7', '8'] at speed ['4', '8', '16']
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['FC', 'FC', 'FCoE', 'GE', 'FC', 'GE', '40GE']
+ports_reverse is []
+protocol_reverse is ['FCoE', 'GE', 'GE', '40GE']
+############Port reverse teting begin############
+ports_reverse is empyt ,so do not test port reverse
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol FCoE reverse testing########
+Lock on port 1 with not supported protocol FCoE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FCoE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FCoE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FCoE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FCoE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FCoE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FCoE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FCoE
+-1 UsePortEx should return -1
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+#############Now start protocol 40GE reverse testing########
+Lock on port 1 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 40GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 40GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+the current protocol is FC
+

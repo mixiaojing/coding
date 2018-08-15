@@ -1,0 +1,427 @@
+Analyzer App version= 11.14.0.188074
+Start testing at 2018-06-01_H15_M09_S13
+***************************************************************************************************************************************
+***********************************************************Start testing  SQA-SING61 now***********************************************
+***************************************************************************************************************************************
+Start reading configuration from excel 
+Licence AQGM7NGBJZ8DPZ8HT3CNYYY9JNKBDR4N is set to not run ,if want to run,please set run=1
+Licence CVGM7NGBJZ8DPZ8HT3CNZ4E2GFFSB2RM is set to not run ,if want to run,please set run=1
+Licence CZGM7NGBJZ8DPZ8HT3CNYWC3R2H009VT is set to not run ,if want to run,please set run=1
+Licence AVGM7NGBJZ8DPZ8HT3CNYRKR0503XZJZ is set to not run ,if want to run,please set run=1
+Licence AZGM7NGBJZ8DPZ8HT3CNYM8SECSTTWK2 is set to not run ,if want to run,please set run=1
+Licence A3GM7NGBJZ8DPZ8HT3CNZGJ2HWA8647R is set to not run ,if want to run,please set run=1
+Licence A7GM7NGBJZ8DPZ8HT3CNY94RQ2FQ8Y2W is set to not run ,if want to run,please set run=1
+Licence AQGM7NGBJZ5DPZ8HT3CNYAA6NEA9WX20 is set to run
+Licence CVGM7NGBJZ5DPZ8HT3CNZZV3TGRBZN94 is set to not run ,if want to run,please set run=1
+Licence CZGM7NGBJZ5DPZ8HT3CNY27JZ6GAB0ZR is set to not run ,if want to run,please set run=1
+Licence AVGM7NGBJZ5DPZ8HT3CNYXWVHV3K5KZY is set to not run ,if want to run,please set run=1
+Licence AZGM7NGBJZ5DPZ8HT3CNYNK04JDCWHY4 is set to not run ,if want to run,please set run=1
+Licence A3GM7NGBJZ5DPZ8HT3CNZ6CXJDN3FQ1M is set to not run ,if want to run,please set run=1
+Licence A7GM7NGBJZ5DPZ8HT3CNZG62C610Z72W is set to not run ,if want to run,please set run=1
+1={'ports': ['1', '2', '3', '4', '5', '6', '7', '8'], 'number': 'AQGM7NGBJZ5DPZ8HT3CNYAA6NEA9WX20', 'personalities': ['JAMMER_SAS']}
+Finish reading configuration from excel 
+Now start to test all the license from configuration excel and test TCAPI function under every license
+Test No.1:AQGM7NGBJZ5DPZ8HT3CNYAA6NEA9WX20 starts:
+Start update license
+1.start to update license AQGM7NGBJZ5DPZ8HT3CNYAA6NEA9WX20
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt AQGM7NGBJZ5DPZ8HT3CNYAA6NEA9WX20 into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+JAMMER JAMMER on ports ['1', '2', '3', '4', '5', '6', '7', '8'] at speed ['12', '6', '3', 'Auto(SAS 6/3)', 'Auto(12/6)', 'Auto(12/6/3)']
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['SAS', 'SAS']
+ports_reverse is []
+protocol_reverse is []
+############Port reverse teting begin############
+ports_reverse is empyt ,so do not test port reverse
+############port reverse teting finish############
+############Protocol reverse teting begin############
+Protocl SAS chassis only support one protocol,so do not test protocl reverse 
+############protocl reverse teting finish############
+the current protocol is SAS
+
+port pair [1, 2, 3, 4]  have been locked 
+
+Test suite has been created
+
+SetTestMode successfully
+
+trigger name set successfully
+
+Test speed 12 started!
+
+start attach test suite to port pair1
+
+1AttachTestSuite for port pair1 passed!
+
+1SetNonOOBSpeedNegotiation for port pair1 passed!
+
+  start jammer for port pair1
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair2
+
+1AttachTestSuite for port pair2 passed!
+
+1SetNonOOBSpeedNegotiation for port pair2 passed!
+
+  start jammer for port pair2
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair3
+
+1AttachTestSuite for port pair3 passed!
+
+1SetNonOOBSpeedNegotiation for port pair3 passed!
+
+  start jammer for port pair3
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair4
+
+1AttachTestSuite for port pair4 passed!
+
+1SetNonOOBSpeedNegotiation for port pair4 passed!
+
+  start jammer for port pair4
+
+  jam test has started
+
+  jam test stopped
+
+
+
+Test speed 6 started!
+
+start attach test suite to port pair1
+
+1AttachTestSuite for port pair1 passed!
+
+1SetNonOOBSpeedNegotiation for port pair1 passed!
+
+  start jammer for port pair1
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair2
+
+1AttachTestSuite for port pair2 passed!
+
+1SetNonOOBSpeedNegotiation for port pair2 passed!
+
+  start jammer for port pair2
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair3
+
+1AttachTestSuite for port pair3 passed!
+
+1SetNonOOBSpeedNegotiation for port pair3 passed!
+
+  start jammer for port pair3
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair4
+
+1AttachTestSuite for port pair4 passed!
+
+1SetNonOOBSpeedNegotiation for port pair4 passed!
+
+  start jammer for port pair4
+
+  jam test has started
+
+  jam test stopped
+
+
+
+Test speed 3 started!
+
+start attach test suite to port pair1
+
+1AttachTestSuite for port pair1 passed!
+
+1SetNonOOBSpeedNegotiation for port pair1 passed!
+
+  start jammer for port pair1
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair2
+
+1AttachTestSuite for port pair2 passed!
+
+1SetNonOOBSpeedNegotiation for port pair2 passed!
+
+  start jammer for port pair2
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair3
+
+1AttachTestSuite for port pair3 passed!
+
+1SetNonOOBSpeedNegotiation for port pair3 passed!
+
+  start jammer for port pair3
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair4
+
+1AttachTestSuite for port pair4 passed!
+
+1SetNonOOBSpeedNegotiation for port pair4 passed!
+
+  start jammer for port pair4
+
+  jam test has started
+
+  jam test stopped
+
+
+
+Test speed Auto(SAS 6/3) started!
+
+start attach test suite to port pair1
+
+1AttachTestSuite for port pair1 passed!
+
+1SetSpeedAutoNegRange for port pair1 passed!
+
+  start jammer for port pair1
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair2
+
+1AttachTestSuite for port pair2 passed!
+
+1SetSpeedAutoNegRange for port pair2 passed!
+
+  start jammer for port pair2
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair3
+
+1AttachTestSuite for port pair3 passed!
+
+1SetSpeedAutoNegRange for port pair3 passed!
+
+  start jammer for port pair3
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair4
+
+1AttachTestSuite for port pair4 passed!
+
+1SetSpeedAutoNegRange for port pair4 passed!
+
+  start jammer for port pair4
+
+  jam test has started
+
+  jam test stopped
+
+
+
+Test speed Auto(12/6) started!
+
+start attach test suite to port pair1
+
+1AttachTestSuite for port pair1 passed!
+
+1SetSpeedAutoNegRange for port pair1 passed!
+
+  start jammer for port pair1
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair2
+
+1AttachTestSuite for port pair2 passed!
+
+1SetSpeedAutoNegRange for port pair2 passed!
+
+  start jammer for port pair2
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair3
+
+1AttachTestSuite for port pair3 passed!
+
+1SetSpeedAutoNegRange for port pair3 passed!
+
+  start jammer for port pair3
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair4
+
+1AttachTestSuite for port pair4 passed!
+
+1SetSpeedAutoNegRange for port pair4 passed!
+
+  start jammer for port pair4
+
+  jam test has started
+
+  jam test stopped
+
+
+
+Test speed Auto(12/6/3) started!
+
+start attach test suite to port pair1
+
+1AttachTestSuite for port pair1 passed!
+
+1SetSpeedAutoNegRange for port pair1 passed!
+
+  start jammer for port pair1
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair2
+
+1AttachTestSuite for port pair2 passed!
+
+1SetSpeedAutoNegRange for port pair2 passed!
+
+  start jammer for port pair2
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair3
+
+1AttachTestSuite for port pair3 passed!
+
+1SetSpeedAutoNegRange for port pair3 passed!
+
+  start jammer for port pair3
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair4
+
+1AttachTestSuite for port pair4 passed!
+
+1SetSpeedAutoNegRange for port pair4 passed!
+
+  start jammer for port pair4
+
+  jam test has started
+
+  jam test stopped
+
+
+
+1Port pair1 has been unlocked
+
+1Port pair2 has been unlocked
+
+1Port pair3 has been unlocked
+
+1Port pair4 has been unlocked
+
+Finish SQA-SING61 testing
+SQA-SING61 will not test mixture license testing
+Restore chassis SQA-SING61 old license
+Successfully restore license  AQGM7NGBJ08DPZ8HT3CNYHJRHK6ZCH01 into chassis license txt
+Successfully restore license  AQGM7NGB229DPZ8HT3CNYK48873MHZ99 into chassis license txt
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+Restore finish and wait 180s for chassis up
+Moved to next chassis
+***************************************************************************************************************************************
+***********************************************************Finish testing  SQA-SING61 now***********************************************
+***************************************************************************************************************************************

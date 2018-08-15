@@ -1,0 +1,649 @@
+Analyzer App version= 11.14.0.188074
+Start testing at 2018-05-31_H17_M12_S24
+***************************************************************************************************************************************
+***********************************************************Start testing  SQA-SING90 now***********************************************
+***************************************************************************************************************************************
+Start reading configuration from excel 
+Licence ATBSZFGAJZ4DPZ8NT3CNZE8ZHVTTFF3B is set to not run ,if want to run,please set run=1
+Licence ATBSZFGAJZ4DPZ8ST3CNYPCV7Y7M513S is set to not run ,if want to run,please set run=1
+Licence ATBSZFGAJZCDPZ8HT3CNZXX2N8E63BC1 is set to not run ,if want to run,please set run=1
+Licence CYBSZFGAJZCDPZ8HT3CNZXDY76XSN7XB is set to not run ,if want to run,please set run=1
+Licence C2BSZFGAJZCDPZ8HT3CNYQ31MXQS4PZN is set to not run ,if want to run,please set run=1
+Licence AYBSZFGAJZCDPZ8HT3CNY34PP0MZBM5N is set to not run ,if want to run,please set run=1
+Licence A2BSZFGAJZCDPZ8HT3CNY5WBGHXRVAXK is set to not run ,if want to run,please set run=1
+Licence A6BSZFGAJZCDPZ8HT3CNZJAD1YA86YW5 is set to not run ,if want to run,please set run=1
+Licence AABSZFGAJZCDPZ8HT3CNZTE5ERVBDF66 is set to not run ,if want to run,please set run=1
+Licence ATBSZFGAJZ4EPZ8HT3CNYFVQD4SDPEPP is set to not run ,if want to run,please set run=1
+Licence ATBSZFGAJ74DPZ8HT3CNZH41WH4SQ588 is set to not run ,if want to run,please set run=1
+Licence CYBSZFGAJ74DPZ8HT3CNYXW6JT41T1PH is set to not run ,if want to run,please set run=1
+Licence C2BSZFGAJ74DPZ8HT3CNZBDNMWDBESQS is set to not run ,if want to run,please set run=1
+Licence AYBSZFGAJ74DPZ8HT3CNY7HQKGP9J46W is set to not run ,if want to run,please set run=1
+Licence A2BSZFGAJ74DPZ8HT3CNZWHW31TJC4SM is set to not run ,if want to run,please set run=1
+Licence A6BSZFGAJ74DPZ8HT3CNYGZ1HXFCXFZW is set to not run ,if want to run,please set run=1
+Licence AABSZFGAJ74DPZ8HT3CNZM75G6MD9EG0 is set to not run ,if want to run,please set run=1
+Licence ATBSZFGAJF4DPZ8HT3CNYKGJM0S6K8B2 is set to not run ,if want to run,please set run=1
+Licence CYBSZFGAJF4DPZ8HT3CNYX6Z14FV61JY is set to not run ,if want to run,please set run=1
+Licence C2BSZFGAJF4DPZ8HT3CNYQHS0ZJFGBJ2 is set to not run ,if want to run,please set run=1
+Licence AYBSZFGAJF4DPZ8HT3CNZ3WWTK2T4RMJ is set to not run ,if want to run,please set run=1
+Licence A2BSZFGAJF4DPZ8HT3CNYCW49Z3J70B4 is set to not run ,if want to run,please set run=1
+Licence A6BSZFGAJF4DPZ8HT3CNZHM39XP6BDRZ is set to not run ,if want to run,please set run=1
+Licence AABSZFGAJF4DPZ8HT3CNYPG6QR47MNR5 is set to not run ,if want to run,please set run=1
+Licence ATBSZFGAJZ6DPZ8HT3CNYGWTWG4BA01X is set to run
+Licence CYBSZFGAJZ6DPZ8HT3CNZHGXKMT5N4XJ is set to not run ,if want to run,please set run=1
+Licence C2BSZFGAJZ6DPZ8HT3CNZ52VF5CMH6V5 is set to not run ,if want to run,please set run=1
+Licence AYBSZFGAJZ6DPZ8HT3CNZRP6MDYJXQQ8 is set to not run ,if want to run,please set run=1
+Licence A2BSZFGAJZ6DPZ8HT3CNYFFBTF6EE1F8 is set to not run ,if want to run,please set run=1
+Licence A6BSZFGAJZ6DPZ8HT3CNZ0E5M7BJY79X is set to not run ,if want to run,please set run=1
+Licence AABSZFGAJZ6DPZ8HT3CNYS750ZPEAY4D is set to not run ,if want to run,please set run=1
+Licence ATBSZFGAMZ4DPZ8HT3CNZ55Q3AMR0RSB is set to run
+Licence CYBSZFGAMZ4DPZ8HT3CNY23ZCVJB3PK1 is set to not run ,if want to run,please set run=1
+Licence C2BSZFGAMZ4DPZ8HT3CNYZ9C5WTVF9QF is set to not run ,if want to run,please set run=1
+Licence AYBSZFGAMZ4DPZ8HT3CNZ06CJ7BBZXRC is set to not run ,if want to run,please set run=1
+Licence A2BSZFGAMZ4DPZ8HT3CNZ00YBY5X1RJP is set to not run ,if want to run,please set run=1
+Licence A6BSZFGAMZ4DPZ8HT3CNZQ17GE6GJ11A is set to not run ,if want to run,please set run=1
+Licence AABSZFGAMZ4DPZ8HT3CNYRM3B7HZCE6S is set to not run ,if want to run,please set run=1
+1={'ports': ['1', '2', '3', '4', '5', '6', '7', '8'], 'number': 'ATBSZFGAJZ6DPZ8HT3CNYGWTWG4BA01X', 'personalities': ['JAMMER_25GE']}
+2={'ports': ['1', '2', '3', '4', '5', '6', '7', '8'], 'number': 'ATBSZFGAMZ4DPZ8HT3CNZ55Q3AMR0RSB', 'personalities': ['JAMMER_GE']}
+Finish reading configuration from excel 
+Now start to test all the license from configuration excel and test TCAPI function under every license
+Test No.1:ATBSZFGAJZ6DPZ8HT3CNYGWTWG4BA01X starts:
+Start update license
+1.start to update license ATBSZFGAJZ6DPZ8HT3CNYGWTWG4BA01X
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt ATBSZFGAJZ6DPZ8HT3CNYGWTWG4BA01X into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+JAMMER JAMMER on ports ['1', '2', '3', '4', '5', '6', '7', '8'] at speed ['25']
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', 'GE', '50GE', 'GE', '25GE']
+ports_reverse is []
+protocol_reverse is ['GE', 'FC', '128FC', '100GE', 'GE', '50GE', 'GE']
+############Port reverse teting begin############
+ports_reverse is empyt ,so do not test port reverse
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 128FC reverse testing########
+Lock on port 1 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 128FC
+-1 UsePortEx should return -1
+#############Now start protocol 100GE reverse testing########
+Lock on port 1 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 100GE
+-1 UsePortEx should return -1
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+#############Now start protocol 50GE reverse testing########
+Lock on port 1 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 50GE
+-1 UsePortEx should return -1
+#############Now start protocol GE reverse testing########
+Lock on port 1 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+the current protocol is 25GE
+
+port pair [1, 2, 3, 4]  have been locked 
+
+Test suite has been created
+
+SetTestMode successfully
+
+trigger name set successfully
+
+Test speed 25 started!
+
+start attach test suite to port pair1
+
+1AttachTestSuite for port pair1 passed!
+
+1SetClockRate for port pair1 successfully!
+
+  start jammer for port pair1
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair2
+
+1AttachTestSuite for port pair2 passed!
+
+1SetClockRate for port pair2 successfully!
+
+  start jammer for port pair2
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair3
+
+1AttachTestSuite for port pair3 passed!
+
+1SetClockRate for port pair3 successfully!
+
+  start jammer for port pair3
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair4
+
+1AttachTestSuite for port pair4 passed!
+
+1SetClockRate for port pair4 successfully!
+
+  start jammer for port pair4
+
+  jam test has started
+
+  jam test stopped
+
+
+
+1Port pair1 has been unlocked
+
+1Port pair2 has been unlocked
+
+1Port pair3 has been unlocked
+
+1Port pair4 has been unlocked
+
+Test No.2:ATBSZFGAMZ4DPZ8HT3CNZ55Q3AMR0RSB starts:
+Start update license
+1.start to update license ATBSZFGAMZ4DPZ8HT3CNZ55Q3AMR0RSB
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt ATBSZFGAMZ4DPZ8HT3CNZ55Q3AMR0RSB into chassis license txt
+2.reboot the chassis to make license effect
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+finish update license
+Finish update license
+JAMMER JAMMER on ports ['1', '2', '3', '4', '5', '6', '7', '8'] at speed ['10']
+Start Reverse testing
+#############################################################################################
+########Reverse testing begin#######
+Protocol_all is ['GE', 'FC', '128FC', '100GE', 'GE', '50GE', 'GE', '25GE']
+ports_reverse is []
+protocol_reverse is ['FC', '128FC', '100GE', '50GE', '25GE']
+############Port reverse teting begin############
+ports_reverse is empyt ,so do not test port reverse
+############port reverse teting finish############
+############Protocol reverse teting begin############
+#############Now start protocol FC reverse testing########
+Lock on port 1 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol FC
+-1 UsePortEx should return -1
+#############Now start protocol 128FC reverse testing########
+Lock on port 1 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 128FC
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 128FC
+-1 UsePortEx should return -1
+#############Now start protocol 100GE reverse testing########
+Lock on port 1 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 100GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 100GE
+-1 UsePortEx should return -1
+#############Now start protocol 50GE reverse testing########
+Lock on port 1 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 50GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 50GE
+-1 UsePortEx should return -1
+#############Now start protocol 25GE reverse testing########
+Lock on port 1 with not supported protocol 25GE
+-1 UsePortEx should return -1
+Lock on port 2 with not supported protocol 25GE
+-1 UsePortEx should return -1
+Lock on port 3 with not supported protocol 25GE
+-1 UsePortEx should return -1
+Lock on port 4 with not supported protocol 25GE
+-1 UsePortEx should return -1
+Lock on port 5 with not supported protocol 25GE
+-1 UsePortEx should return -1
+Lock on port 6 with not supported protocol 25GE
+-1 UsePortEx should return -1
+Lock on port 7 with not supported protocol 25GE
+-1 UsePortEx should return -1
+Lock on port 8 with not supported protocol 25GE
+-1 UsePortEx should return -1
+############protocl reverse teting finish############
+the current protocol is GE
+
+port pair [5, 6, 7, 8]  have been locked 
+
+Test suite has been created
+
+SetTestMode successfully
+
+trigger name set successfully
+
+Test speed 10 started!
+
+start attach test suite to port pair5
+
+1AttachTestSuite for port pair5 passed!
+
+1SetClockRate for port pair5 successfully!
+
+  start jammer for port pair5
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair6
+
+1AttachTestSuite for port pair6 passed!
+
+1SetClockRate for port pair6 successfully!
+
+  start jammer for port pair6
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair7
+
+1AttachTestSuite for port pair7 passed!
+
+1SetClockRate for port pair7 successfully!
+
+  start jammer for port pair7
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair8
+
+1AttachTestSuite for port pair8 passed!
+
+1SetClockRate for port pair8 successfully!
+
+  start jammer for port pair8
+
+  jam test has started
+
+  jam test stopped
+
+
+
+1Port pair5 has been unlocked
+
+1Port pair6 has been unlocked
+
+1Port pair7 has been unlocked
+
+1Port pair8 has been unlocked
+
+Finish SQA-SING90 testing
+Now start to mixture license testing
+##########################################################################################################
+ATBSZFGAMZ4DPZ8HT3CNZ55Q3AMR0RSB is test for old method ,use Agenlicencemanagement to write license
+ATBSZFGAJZ6DPZ8HT3CNYGWTWG4BA01X is test for new method:use C:\Xgigliense.txt to write license
+##########################################################################################################
+##########################################################################################################
+ Update license with new method with ATBSZFGAJZ6DPZ8HT3CNYGWTWG4BA01X is start
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt ATBSZFGAJZ6DPZ8HT3CNYGWTWG4BA01X into chassis license txt
+Finish to write license ATBSZFGAJZ6DPZ8HT3CNYGWTWG4BA01Xinto Xgiglicense file with new method
+##########################################################################################################
+##########################################################################################################
+ Update license with old methold with ATBSZFGAMZ4DPZ8HT3CNZ55Q3AMR0RSB is start
+Chassis can be ping succeffully
+connect Host successfully 
+Successfully replace license txt ATBSZFGAMZ4DPZ8HT3CNZ55Q3AMR0RSB into chassis license txt
+##########################################################################################################
+Reboot chassis SQA-SING90now
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+Test ATBSZFGAMZ4DPZ8HT3CNZ55Q3AMR0RSB TCAPI starts:
+JAMMER JAMMER on ports ['1', '2', '3', '4', '5', '6', '7', '8'] at speed ['10']
+the current protocol is GE
+
+port pair [9, 10, 11, 12]  have been locked 
+
+Test suite has been created
+
+SetTestMode successfully
+
+trigger name set successfully
+
+Test speed 10 started!
+
+start attach test suite to port pair9
+
+1AttachTestSuite for port pair9 passed!
+
+1SetClockRate for port pair9 successfully!
+
+  start jammer for port pair9
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair10
+
+1AttachTestSuite for port pair10 passed!
+
+1SetClockRate for port pair10 successfully!
+
+  start jammer for port pair10
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair11
+
+1AttachTestSuite for port pair11 passed!
+
+1SetClockRate for port pair11 successfully!
+
+  start jammer for port pair11
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair12
+
+1AttachTestSuite for port pair12 passed!
+
+1SetClockRate for port pair12 successfully!
+
+  start jammer for port pair12
+
+  jam test has started
+
+  jam test stopped
+
+
+
+1Port pair9 has been unlocked
+
+1Port pair10 has been unlocked
+
+1Port pair11 has been unlocked
+
+1Port pair12 has been unlocked
+
+Test ATBSZFGAJZ6DPZ8HT3CNYGWTWG4BA01X TCAPI starts:
+JAMMER JAMMER on ports ['1', '2', '3', '4', '5', '6', '7', '8'] at speed ['25']
+the current protocol is 25GE
+
+port pair [13, 14, 15, 16]  have been locked 
+
+Test suite has been created
+
+SetTestMode successfully
+
+trigger name set successfully
+
+Test speed 25 started!
+
+start attach test suite to port pair13
+
+1AttachTestSuite for port pair13 passed!
+
+1SetClockRate for port pair13 successfully!
+
+  start jammer for port pair13
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair14
+
+1AttachTestSuite for port pair14 passed!
+
+1SetClockRate for port pair14 successfully!
+
+  start jammer for port pair14
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair15
+
+1AttachTestSuite for port pair15 passed!
+
+1SetClockRate for port pair15 successfully!
+
+  start jammer for port pair15
+
+  jam test has started
+
+  jam test stopped
+
+
+
+start attach test suite to port pair16
+
+1AttachTestSuite for port pair16 passed!
+
+1SetClockRate for port pair16 successfully!
+
+  start jammer for port pair16
+
+  jam test has started
+
+  jam test stopped
+
+
+
+1Port pair13 has been unlocked
+
+1Port pair14 has been unlocked
+
+1Port pair15 has been unlocked
+
+1Port pair16 has been unlocked
+
+##########################################################################################################
+ Delete license with old methold with ATBSZFGAMZ4DPZ8HT3CNZ55Q3AMR0RSB is start
+Chassis can be ping succeffully
+connect Host successfully 
+Successful to delete license ATBSZFGAMZ4DPZ8HT3CNZ55Q3AMR0RSB
+ Finish delete license with old methold
+##########################################################################################################
+Finish mixture license testing
+Restore chassis SQA-SING90 old license
+Successfully restore license  ATBSZFGANQEDPZ8XT3CNYEBHWZFQRVPS into chassis license txt
+reboot command have been delivered ,now waiting for reboot
+Chassis is rebooting and waiting for the chassis up
+Wait 180s
+Restore finish and wait 180s for chassis up
+Moved to next chassis
+***************************************************************************************************************************************
+***********************************************************Finish testing  SQA-SING90 now***********************************************
+***************************************************************************************************************************************

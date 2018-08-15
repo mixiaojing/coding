@@ -1,0 +1,6 @@
+Test No.1:ATBSZFGAJZ6DPZ8HT3CNYGWTWG4BA01X is PASS
+Test No.2:ATBSZFGAMZ4DPZ8HT3CNZ55Q3AMR0RSB is PASS
+#############below two license is for mixture license testing ##########
+Test on ATBSZFGAMZ4DPZ8HT3CNZ55Q3AMR0RSB is PASS
+Test on ATBSZFGAJZ6DPZ8HT3CNYGWTWG4BA01X is PASS
+Restore license finished is PASS
