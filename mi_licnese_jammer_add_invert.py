@@ -250,3 +250,4 @@ basic_check(chassis_name,protocol,port_list,speeds,revert)
 
 UninitJammerAPI()
 
+print 'haha'
